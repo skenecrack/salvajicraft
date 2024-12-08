@@ -1,0 +1,61 @@
+Default: Member
+Usertags: ''
+Groups:
+  Member:
+    permissions: []
+    inheritance: []
+    chat:
+      prefix: '[]'
+      suffix: ''
+      chatColor: '&f'
+      nameColor: '&f'
+    level:
+      promote: ''
+      demote: ''
+    economy:
+      buyable: []
+      cost: 0
+      description: ''
+      command: ''
+    gui:
+      icon: stick
+  Owner:
+    permissions: []
+    inheritance: []
+    chat:
+      prefix: '[&bOwner&r]'
+      suffix: ''
+      chatColor: '&c:&fPIPEESGEY'
+      nameColor: '&f'
+    level:
+      promote: ''
+      demote: Admin
+    economy:
+      buyable: []
+      cost: 0
+      description: ''
+      command: ''
+    gui:
+      icon: vampirism_blood_bottle
+  °:
+    permissions: []
+    inheritance: []
+    chat:
+      prefix: '[&7°&r]'
+      suffix: ''
+      chatColor: '&f'
+      nameColor: '&f'
+    level:
+      promote: ''
+      demote: ''
+    economy:
+      buyable: []
+      cost: 0
+    gui:
+      icon: stone
+  'null':
+    permissions: []
+    inheritance: []
+    chat:
+      chatColor: '&f'
+version: 1.9.6

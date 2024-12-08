@@ -1,0 +1,79 @@
+players:
+  c92e8c31-652c-3fc5-b7b5-ece9aaa045ad:
+    rank: Member
+    name: DuvanD
+    usertag: ''
+    playtime: 49272
+    permissions: []
+    subranks: ''
+  96aa5d1a-35a1-3973-b483-597cb6e73744:
+    name: skenecrackm
+    rank: Owner
+    permissions: []
+    subranks: ''
+    usertag: ''
+    playtime: 50957
+  cfdfaf27-bb1d-37de-9232-5dc1b9bde6f2:
+    permissions: []
+    usertag: ''
+    name: skenecrack
+    rank: Member
+    playtime: 4
+    subranks: ''
+  4fd74b4c-1953-31ba-aeec-8e2995781d08:
+    playtime: 10483
+    rank: Member
+    usertag: ''
+    name: Pipelon777
+    subranks: ''
+    permissions: []
+  4d94e397-4f30-3e10-8bfc-a35c7b704ebc:
+    subranks: ''
+    usertag: ''
+    playtime: 44983
+    name: lJuqncl
+    permissions: []
+    rank: Member
+  a1cfde2b-caac-37d0-b9e3-46980f547e63:
+    usertag: ''
+    rank: Member
+    permissions: []
+    subranks: ''
+    name: Steven351
+    playtime: 10725
+  02713222-0205-3050-873a-e2723b711455:
+    name: cockcocola
+    permissions: []
+    usertag: ''
+    playtime: 11395
+    rank: Owner
+    subranks: ''
+  c3a498b2-0640-3480-a848-e5fa756a3e66:
+    playtime: 4714
+    name: EstebanPRL
+    subranks: ''
+    usertag: ''
+    rank: Member
+    permissions: []
+  52e8f506-e06c-30a3-abe7-0d8677ae20e3:
+    subranks: ''
+    playtime: 6317
+    rank: Member
+    name: Panno_
+    permissions: []
+    usertag: ''
+  38309568-8b85-337d-85c7-646e73284045:
+    permissions: []
+    rank: Member
+    name: Pou20
+    subranks: ''
+    usertag: ''
+    playtime: 8863
+  8bf789df-7997-3207-b714-0bec889cc390:
+    name: GOD
+    rank: Member
+    permissions: []
+    subranks: ''
+    playtime: 10654
+    usertag: ''
+version: 1.9.6

@@ -1,0 +1,125 @@
+{
+	"biome": "biomesoplenty:corrupted_sands",
+	"generationWeight": 8,
+	"useDefaultDecorations": true,
+	"isSubBiome": false,
+	"blocks": {},
+	"entities": [
+		{
+			"spawnWeight": 50,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:ghast"
+		}, 
+		{
+			"spawnWeight": 100,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:zombie_pigman"
+		}, 
+		{
+			"spawnWeight": 2,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:magma_cube"
+		}, 
+		{
+			"spawnWeight": 1,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4,
+			"entity": "minecraft:enderman"
+		}, 
+		{
+			"spawnWeight": 2,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "mowziesmobs:grottol"
+		}, 
+		{
+			"spawnWeight": 15,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "srparasites:shyco"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "srparasites:dorpa"
+		}, 
+		{
+			"spawnWeight": 20,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 2,
+			"entity": "srparasites:rathol"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 2,
+			"maximumGroupCount": 3,
+			"entity": "srparasites:emana"
+		}, 
+		{
+			"spawnWeight": 30,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 5,
+			"entity": "srparasites:infhuman"
+		}, 
+		{
+			"spawnWeight": 40,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 6,
+			"entity": "srparasites:hull"
+		}, 
+		{
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "srparasites:canra"
+		}, 
+		{
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "srparasites:alafha"
+		}, 
+		{
+			"spawnWeight": 20,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "srparasites:nogla"
+		}, 
+		{
+			"spawnWeight": 25,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2,
+			"entity": "srparasites:buthol"
+		}, 
+		{
+			"spawnWeight": 30,
+			"minimumGroupCount": 3,
+			"maximumGroupCount": 6,
+			"entity": "srparasites:mudo"
+		}, 
+		{
+			"spawnWeight": 11,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1,
+			"entity": "srparasites:bano"
+		}, 
+		{
+			"spawnWeight": 10,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "chococraft:chocobo"
+		}, 
+		{
+			"spawnWeight": 2,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3,
+			"entity": "iceandfire:deathworm"
+		}
+	],
+	"traits": [],
+	"subBiomes": []
+}

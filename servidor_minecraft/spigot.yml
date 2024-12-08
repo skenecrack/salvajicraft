@@ -40,6 +40,7 @@ stats:
 commands:
   tab-complete: 0
   silent-commandblock-console: false
+  log: true
   spam-exclusions:
   - /skill
   replace-commands:
@@ -47,7 +48,6 @@ commands:
   - summon
   - testforblock
   - tellraw
-  log: true
 advancements:
   disable-saving: false
   disabled:
@@ -57,6 +57,7 @@ messages:
 world-settings:
   default:
     verbose: false
+    save-structure-info: true
     mob-spawn-range: 4
     growth:
       cactus-modifier: 100
@@ -80,7 +81,6 @@ world-settings:
       hopper-check: 1
     hopper-amount: 1
     random-light-updates: false
-    save-structure-info: true
     dragon-death-sound-radius: 0
     seed-village: 10387312
     seed-feature: 14357617
@@ -103,20 +103,20 @@ world-settings:
     max-growth-height:
       cactus: 3
       reeds: 3
+    enable-zombie-pigmen-portal-spawns: true
+    merge-radius:
+      exp: 3.0
+      item: 2.5
+    item-despawn-rate: 6000
+    zombie-aggressive-towards-villager: true
+    hanging-tick-frequency: 100
     nerf-spawner-mobs: false
+    wither-spawn-sound-radius: 0
+    view-distance: 10
+    arrow-despawn-rate: 1200
     entity-tracking-range:
       players: 48
       animals: 48
       monsters: 48
       misc: 32
       other: 64
-    arrow-despawn-rate: 1200
-    merge-radius:
-      exp: 3.0
-      item: 2.5
-    item-despawn-rate: 6000
-    enable-zombie-pigmen-portal-spawns: true
-    wither-spawn-sound-radius: 0
-    view-distance: 10
-    hanging-tick-frequency: 100
-    zombie-aggressive-towards-villager: true

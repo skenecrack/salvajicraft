@@ -1,0 +1,87 @@
+Config:
+  update_notification: true
+  data_save_time: 5
+  register_commands:
+  - hello
+  to_condition_groups:
+    group1:
+    - '%player_has_permission_conditionalevents.somepermission% == yes'
+  experimental:
+    variable_replacement: false
+  debug_actions: true
+Messages:
+  prefix: '&4[&bConditionalEvents&4] '
+  commandReload: '&aConfig Reloaded.'
+  commandNoPermissions: '&cYou don''t have permissions to use this command.'
+  commandResetError: '&cUse &7/ce reset <player> <event>/all'
+  eventDoesNotExists: '&cThat event doesn''t exists on the config.'
+  eventDataReset: '&aData reset for player &e%player% &aon event &e%event%&a!'
+  eventDataResetAll: '&aAll data reset for player &e%player%&a!'
+  eventEnableError: '&cUse &7/ce enable <event>'
+  eventDisableError: '&cUse &7/ce disable <event>'
+  eventEnabled: '&aEvent &7%event% &aenabled.'
+  eventDisabled: '&aEvent &7%event% &adisabled.'
+  commandDebugError: '&cUse &7/ce debug <event>'
+  debugEnabled: '&aDebug now enabled for event &7%event%&a!'
+  debugDisabled: '&aDebug disabled for event &7%event%&a!'
+  onlyPlayerCommand: '&cThis command can be only used by a player.'
+  playerDoesNotExists: '&cThat player doesn''t have any data.'
+  seconds: s
+  minutes: m
+  hours: h
+  days: d
+  placeholderAPICooldownReady: Ready!
+  placeholderAPICooldownNameError: No event with that name!
+  commandItemError: '&cUse &7/ce item <save/remove> <name>'
+  savedItemDoesNotExists: '&cThat saved item doesn''t exists.'
+  savedItemRemoved: '&aItem &7%name% &aremoved.'
+  mustHaveItemInHand: '&cYou must have an item on your hand.'
+  savedItemAlreadyExists: '&cA saved item with that name already exists.'
+  savedItemAdded: '&aItem &7%name% &asaved.'
+  commandCallCorrectPlayer: '&aEvent &7%event% &asuccessfully executed for player
+    &7%player%&a.'
+  playerNotOnline: '&cThat player is not online.'
+  debugEnabledPlayer: '&aDebug now enabled for event &7%event% &aand player &7%player%&a!'
+  debugDisabledPlayer: '&aDebug disabled for event &7%event% &aand player &7%player%&a!'
+  eventDataResetForAllPlayers: '&aData reset for &eall players &aon event &e%event%&a!'
+  eventDataResetAllForAllPlayers: '&aAll player data reset.'
+  commandCallError: '&cUse &7/ce call <event> (optional)%variable1%=<value1>;%variableN%=<valueN>'
+  commandCallInvalidEvent: '&cYou can only execute a CALL event.'
+  commandCallCorrect: '&aEvent &7%event% &asuccessfully executed.'
+  commandCallFailed: '&cEvent &7%event% &ccould not be executed. Maybe a format error?'
+Events:
+  playerDeath:
+    type: player_death
+    conditions:
+    - '%objective_score_{muertes}% == 999 execute action2'
+    actions:
+      default:
+      - 'console_command: minecraft:scoreboard players add %player% muertes 1'
+      - 'console_command: minecraft:title @a times 20 0 20'
+      - 'console_command: minecraft:title @a subtitle {"text":"%player%","bold":true,"color":"dark_red"}'
+      - 'console_command: minecraft:title @a title {"text":"\u2620","bold":true,"color":"dark_red"}'
+   
+      action2:
+      - 'console_command: minecraft:scoreboard players add %player% muertes 1'
+      - 'console_command: gamemode spectator %player%'
+      - 'to_all: message: &f¡&a%player% &fse ha queado sin &cvidas&f!'
+  firstJoin:
+    type: player_join
+    conditions:
+    - '%objective_score_{vidas}% == 0'
+    actions:
+      default:
+      - 'console_command: minecraft:scoreboard players set %player% muertes 0'
+  TotemUseEvent:
+    type: custom
+    custom_event_data:
+      event: org.bukkit.event.entity.EntityResurrectEvent
+      player_variable: getEntity()
+      variables_to_capture:
+      - '%cancelado%;isCancelled()'
+    conditions:
+    - '%cancelado% == false'
+    actions:
+      default:
+      - 'to_all: message: &e۞ &e&l%player% &eha consumido un tótem'
+    enabled: true
