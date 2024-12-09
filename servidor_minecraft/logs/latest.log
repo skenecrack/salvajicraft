@@ -30206,3 +30206,143 @@
 [18:45:28] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.03 and blood value 0 for entity iceandfire:firedragon
 [18:45:31] [Async Chat Thread - 6/INFO] []: [] DuvanD: eso
 [18:45:33] [Async Chat Thread - 6/INFO] []: [] DuvanD: hola
+[18:45:42] [Netty Epoll Server IO #1/INFO] [voicechat]: [voicechat] Received secret request of lJuqncl (18)
+[18:45:42] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[18:45:42] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[18:45:42] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[18:45:42] [Netty Epoll Server IO #1/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[18:45:45] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[18:45:46] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[18:45:46] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[18:45:46] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[18:45:46] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[18:45:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[18:46:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:46:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /lr ping
+[18:46:50] [Async Chat Thread - 7/INFO] []: [] lJuqncl: uy ya entro otra vez
+[18:46:50] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=true, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[18:46:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lJuqncl lost connection: Disconnected
+[18:46:52] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of lJuqncl
+[18:46:52] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lJuqncl
+[18:46:52] [Server thread/INFO] []: [-] lJuqncl
+[18:46:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /lr ping l
+[18:48:41] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[18:49:42] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[18:50:21] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[18:50:35] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[18:50:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[18:51:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:52:04] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[18:52:24] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Pou20 is 38309568-8b85-337d-85c7-646e73284045
+[18:52:24] [Server thread/TRACE] [FML]: Handshake channel activating
+[18:52:24] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[18:52:24] [Server thread/DEBUG] [FML]:   Next: HELLO
+[18:52:24] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[18:52:24] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[18:52:24] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[18:52:24] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[18:52:24] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[18:52:24] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[18:52:24] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[18:52:24] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[18:52:25] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[18:52:25] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[18:52:25] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[18:52:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:52:25] [Server thread/INFO] []: [+] Pou20
+[18:52:25] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[18:52:26] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['Pou20'/9112, uuid='38309568-8b85-337d-85c7-646e73284045', l='world', x=41.42, y=65.00, z=-716.48, cx=2, cd=-45, tl=176259, v=true, d=false](Pou20 at 41.415794395015844,65.0,-716.4751694075981))
+[18:52:26] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of Pou20: {disabled=false, disconnected=true, uuid=38309568-8b85-337d-85c7-646e73284045, name=Pou20, group=null}
+[18:52:26] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Pou20[/127.23.235.141:42005] logged in with entity id 9112 at ([world]41.415794395015844, 65.0, -716.4751694075981)
+[18:52:28] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Received secret request of Pou20 (18)
+[18:52:28] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Sending initial states to Pou20
+[18:52:28] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with Pou20
+[18:52:28] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Pou20
+[18:52:28] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Sent secret to Pou20
+[18:52:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 38309568-8b85-337d-85c7-646e73284045
+[18:52:31] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 38309568-8b85-337d-85c7-646e73284045
+[18:52:31] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of Pou20 to connected: {disabled=false, disconnected=false, uuid=38309568-8b85-337d-85c7-646e73284045, name=Pou20, group=null}
+[18:52:31] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Pou20 (38309568-8b85-337d-85c7-646e73284045) successfully connected to voice chat
+[18:52:31] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of Pou20: {disabled=false, disconnected=false, uuid=38309568-8b85-337d-85c7-646e73284045, name=Pou20, group=null}
+[18:52:42] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[18:52:55] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[18:53:06] [Server thread/INFO] [Scaling Health]: Blight Skeleton was killed by DuvanD
+[18:53:06] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[18:53:15] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player lJuqncl is 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[18:53:15] [Server thread/TRACE] [FML]: Handshake channel activating
+[18:53:15] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[18:53:15] [Server thread/DEBUG] [FML]:   Next: HELLO
+[18:53:16] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[18:53:16] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[18:53:16] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[18:53:16] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[18:53:16] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[18:53:16] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[18:53:16] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[18:53:16] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[18:53:17] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[18:53:17] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[18:53:17] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[18:53:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:53:17] [Server thread/INFO] []: [+] lJuqncl
+[18:53:18] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['lJuqncl'/9445, uuid='4d94e397-4f30-3e10-8bfc-a35c7b704ebc', l='world', x=-2321.40, y=69.00, z=-806.53, cx=-146, cd=-51, tl=1125516, v=true, d=false](lJuqncl at -2321.397434653308,69.0,-806.5343559657528))
+[18:53:18] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of lJuqncl: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[18:53:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: lJuqncl[/127.229.116.146:33185] logged in with entity id 9445 at ([world]-2321.397434653308, 69.0, -806.5343559657528)
+[18:53:18] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[18:53:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[18:53:30] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Received secret request of lJuqncl (18)
+[18:53:30] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[18:53:30] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[18:53:30] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[18:53:30] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[18:53:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[18:53:34] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[18:53:34] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[18:53:34] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[18:53:34] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[18:53:50] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[18:54:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[18:54:27] [Server thread/INFO] [Scaling Health]: Blight Creeper was killed by DuvanD
+[18:54:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[18:54:28] [User Authenticator #5/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Panno_ is 52e8f506-e06c-30a3-abe7-0d8677ae20e3
+[18:54:28] [Server thread/TRACE] [FML]: Handshake channel activating
+[18:54:28] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[18:54:28] [Server thread/DEBUG] [FML]:   Next: HELLO
+[18:54:28] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[18:54:28] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:69 mods->FMLHandshakeServerState$2:HELLO
+[18:54:28] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 69 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,netherex@2.2.5,playerrevive@1.0
+[18:54:28] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[18:54:28] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[18:54:29] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[18:54:29] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[18:54:29] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[18:54:30] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[18:54:30] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[18:54:30] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[18:54:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:54:30] [Server thread/INFO] []: [+] Panno_
+[18:54:30] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[18:54:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Panno_ has made the advancement [Christmas]
+[18:54:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Panno_ has made the advancement [Mysterious Gift]
+[18:54:30] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['Panno_'/10690, uuid='52e8f506-e06c-30a3-abe7-0d8677ae20e3', l='world', x=249.70, y=78.00, z=-593.19, cx=15, cd=-38, tl=125403, v=true, d=false](Panno_ at 249.69999998807907,78.0,-593.1858568571129))
+[18:54:30] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of Panno_: {disabled=false, disconnected=true, uuid=52e8f506-e06c-30a3-abe7-0d8677ae20e3, name=Panno_, group=null}
+[18:54:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Panno_[/127.176.137.135:51391] logged in with entity id 10690 at ([world]249.69999998807907, 78.0, -593.1858568571129)
+[18:54:34] [Netty Epoll Server IO #3/INFO] [voicechat]: [voicechat] Received secret request of Panno_ (18)
+[18:54:34] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Sending initial states to Panno_
+[18:54:34] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with Panno_
+[18:54:34] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Panno_
+[18:54:34] [Netty Epoll Server IO #3/INFO] [voicechat]: [voicechat] Sent secret to Panno_
+[18:54:37] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 52e8f506-e06c-30a3-abe7-0d8677ae20e3
+[18:54:38] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 52e8f506-e06c-30a3-abe7-0d8677ae20e3
+[18:54:38] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of Panno_ to connected: {disabled=false, disconnected=false, uuid=52e8f506-e06c-30a3-abe7-0d8677ae20e3, name=Panno_, group=null}
+[18:54:38] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Panno_ (52e8f506-e06c-30a3-abe7-0d8677ae20e3) successfully connected to voice chat
+[18:54:38] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Got state of Panno_: {disabled=false, disconnected=false, uuid=52e8f506-e06c-30a3-abe7-0d8677ae20e3, name=Panno_, group=null}
+[18:54:52] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[18:55:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[18:55:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[18:55:16] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of Pou20: {disabled=true, disconnected=false, uuid=38309568-8b85-337d-85c7-646e73284045, name=Pou20, group=null}
+[18:55:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pou20 lost connection: Disconnected
+[18:55:21] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of Pou20
+[18:55:21] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Pou20
+[18:55:21] [Server thread/INFO] []: [-] Pou20
+[18:55:29] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Sheep is 0.001
