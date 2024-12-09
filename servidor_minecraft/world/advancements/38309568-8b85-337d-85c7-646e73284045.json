@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2024-12-09 20:36:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-04 02:41:06 +0000"
@@ -199,6 +205,7 @@
   },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
+      "peridot": "2024-12-09 20:22:31 +0000",
       "ruby": "2024-12-06 22:34:19 +0000"
     },
     "done": false
@@ -293,6 +300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2024-12-09 20:36:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_cherry": {
     "criteria": {
       "entered_water": "2024-12-04 02:49:58 +0000"
@@ -319,7 +332,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-12-04 02:47:54 +0000"
+      "bread": "2024-12-04 02:47:54 +0000",
+      "rotten_flesh": "2024-12-09 20:25:41 +0000"
     },
     "done": false
   },
@@ -486,6 +500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2024-12-09 20:36:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-04 02:50:49 +0000"
@@ -594,6 +614,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/lime_dye_from_glowshroom": {
+    "criteria": {
+      "has_flower": "2024-12-09 20:28:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-04 02:49:58 +0000"
@@ -609,6 +635,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-05 04:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2024-12-09 20:36:29 +0000"
     },
     "done": true
   },
@@ -712,6 +744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2024-12-09 20:36:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2024-12-04 02:49:58 +0000"
@@ -754,6 +792,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2024-12-09 20:35:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2024-12-04 02:49:58 +0000"
@@ -775,6 +819,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2024-12-04 02:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-09 20:19:58 +0000"
     },
     "done": true
   },
@@ -976,6 +1026,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2024-12-06 22:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2024-12-09 20:36:29 +0000"
     },
     "done": true
   }
