@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2024-12-09 19:42:01 +0000"
+    },
+    "done": true
+  },
   "vampirism:main/root": {
     "criteria": {
       "main": "2024-12-03 22:04:15 +0000"
@@ -679,6 +685,12 @@
   "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2024-12-05 23:11:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-09 19:39:45 +0000"
     },
     "done": true
   },
