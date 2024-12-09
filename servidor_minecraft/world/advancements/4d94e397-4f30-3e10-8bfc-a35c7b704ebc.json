@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-09 19:17:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-03 20:30:03 +0000"
@@ -266,6 +272,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-03 21:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2024-12-09 19:17:06 +0000"
     },
     "done": true
   },
@@ -1239,6 +1251,12 @@
   "biomesoplenty:recipes/misc/sand_from_dried_sand": {
     "criteria": {
       "has_gem_block": "2024-12-03 21:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2024-12-09 19:17:06 +0000"
     },
     "done": true
   },

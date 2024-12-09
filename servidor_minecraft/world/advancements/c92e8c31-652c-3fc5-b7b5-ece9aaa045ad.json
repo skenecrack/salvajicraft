@@ -611,6 +611,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2024-12-04 02:58:26 +0000",
+      "slime": "2024-12-09 19:19:35 +0000",
       "skeleton": "2024-12-03 21:39:23 +0000",
       "cave_spider": "2024-12-03 21:46:32 +0000",
       "zombie": "2024-12-03 21:42:10 +0000",
