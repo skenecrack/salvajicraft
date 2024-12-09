@@ -757,6 +757,12 @@
     },
     "done": true
   },
+  "wolfarmor:recipes/combat/gold_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2024-12-09 20:37:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-09 18:54:30 +0000"
