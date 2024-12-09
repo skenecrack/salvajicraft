@@ -30413,3 +30413,194 @@
 [19:05:48] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of Panno_
 [19:05:48] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Panno_
 [19:05:48] [Server thread/INFO] []: [-] Panno_
+[19:06:02] [User Authenticator #7/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Panno_ is 52e8f506-e06c-30a3-abe7-0d8677ae20e3
+[19:06:02] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:06:02] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:06:02] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:06:03] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:06:03] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:69 mods->FMLHandshakeServerState$2:HELLO
+[19:06:03] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 69 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,netherex@2.2.5,playerrevive@1.0
+[19:06:03] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[19:06:03] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[19:06:03] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:06:03] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[19:06:03] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[19:06:04] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:06:04] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[19:06:04] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:06:04] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:06:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:06:05] [Server thread/INFO] []: [+] Panno_
+[19:06:05] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['Panno_'/27142, uuid='52e8f506-e06c-30a3-abe7-0d8677ae20e3', l='world', x=244.59, y=66.00, z=-552.54, cx=15, cd=-35, tl=138943, v=true, d=false](Panno_ at 244.591131404339,66.0,-552.5380637537914))
+[19:06:05] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of Panno_: {disabled=false, disconnected=true, uuid=52e8f506-e06c-30a3-abe7-0d8677ae20e3, name=Panno_, group=null}
+[19:06:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Panno_[/127.176.137.135:47531] logged in with entity id 27142 at ([world]244.591131404339, 66.0, -552.5380637537914)
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [-2532, -499] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [-2536, -496] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Generated structure 'GenericTree2' in StructureBoundingBox{x0=-2535, y0=67, z0=-506, x1=-2524, y1=80, z1=-496} (0)
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-2457, -498] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [-2469, -492] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'GenericTreeSmall' canceled generation at [-2471, -492] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree3' canceled generation at [-2469, -490] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'Basswood' canceled generation at [-2469, -493] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [-2470, -490] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [-2457, -502] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree' canceled generation at [-2462, -495] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-2463, -500] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=-2475, y0=63, z0=-497, x1=-2470, y1=78, z1=-491} (0)
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree3' canceled generation at [-2468, -496] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [-2471, -494] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'Basswood' canceled generation at [-2470, -489] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-2457, -489] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-2465, -499] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree5' canceled generation at [-2468, -494] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-2466, -499] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=-2475, y0=63, z0=-494, x1=-2470, y1=78, z1=-488} (0)
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [-2470, -502] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'Basswood' canceled generation at [-2465, -490] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [-2467, -489] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree' canceled generation at [-2468, -497] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [-2470, -498] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-2466, -497] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:05] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree3' canceled generation at [-2471, -493] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:06] [Server thread/TRACE] [reccomplex]: Structure 'OakTreeBig' canceled generation at [-2471, -501] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:06] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig1' canceled generation at [-2467, -499] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:06] [Server thread/TRACE] [reccomplex]: Structure 'OakTreeBig' canceled generation at [-2467, -492] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:06] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-2458, -491] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:06] [Server thread/TRACE] [reccomplex]: Structure 'OakTreeBig' canceled generation at [-2467, -500] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:06] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [-2471, -498] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:06] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree4' canceled generation at [-2465, -495] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:06] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree6' canceled generation at [-2457, -494] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:09] [Server thread/TRACE] [reccomplex]: Structure 'StonePlantBoulder' canceled generation at [-2507, -479] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:11] [Netty Epoll Server IO #1/INFO] [voicechat]: [voicechat] Received secret request of Panno_ (18)
+[19:06:11] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Sending initial states to Panno_
+[19:06:11] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Synchronizing 1 groups with Panno_
+[19:06:11] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Panno_
+[19:06:11] [Netty Epoll Server IO #1/INFO] [voicechat]: [voicechat] Sent secret to Panno_
+[19:06:13] [Server thread/TRACE] [reccomplex]: Structure 'StonePlantMound4' canceled generation at [-2520, -463] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:13] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[19:06:14] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 52e8f506-e06c-30a3-abe7-0d8677ae20e3
+[19:06:15] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 52e8f506-e06c-30a3-abe7-0d8677ae20e3
+[19:06:15] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of Panno_ to connected: {disabled=false, disconnected=false, uuid=52e8f506-e06c-30a3-abe7-0d8677ae20e3, name=Panno_, group=null}
+[19:06:15] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Panno_ (52e8f506-e06c-30a3-abe7-0d8677ae20e3) successfully connected to voice chat
+[19:06:15] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of Panno_: {disabled=false, disconnected=false, uuid=52e8f506-e06c-30a3-abe7-0d8677ae20e3, name=Panno_, group=null}
+[19:06:18] [Server thread/TRACE] [reccomplex]: Structure 'StonePlantMound4' canceled generation at [-2766, -529] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:32] [Server thread/TRACE] [reccomplex]: Generated structure 'SmallWoodenCottage1' in StructureBoundingBox{x0=-2838, y0=72, z0=-534, x1=-2832, y1=79, z1=-523} (0)
+[19:06:35] [Server thread/TRACE] [reccomplex]: Structure 'StonePlantMound3' canceled generation at [-2836, -403] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:38] [Server thread/TRACE] [reccomplex]: Structure 'StonePlantMound2' canceled generation at [-2648, -390] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:42] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound4' in StructureBoundingBox{x0=-2741, y0=74, z0=-377, x1=-2734, y1=80, z1=-370} (0)
+[19:06:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:06:48] [Server thread/TRACE] [reccomplex]: SpiderPit failed to spawn at [-2878, -620] (incompatible biome edge)
+[19:06:50] [Server thread/TRACE] [reccomplex]: Structure 'StoneBoulder' canceled generation at [-2595, -328] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:06:58] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneLeafMound' in StructureBoundingBox{x0=-2632, y0=66, z0=-308, x1=-2625, y1=69, z1=-299} (0)
+[19:07:09] [Server thread/TRACE] [reccomplex]: Generated structure 'PirateChest' in StructureBoundingBox{x0=-2702, y0=63, z0=-237, x1=-2698, y1=69, z1=-233} (0)
+[19:07:10] [Async Chat Thread - 10/INFO] []: [] DuvanD: si
+[19:07:21] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantBoulder' in StructureBoundingBox{x0=-2725, y0=59, z0=-195, x1=-2715, y1=69, z1=-185} (0)
+[19:07:22] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 1.0 and blood value 10 for entity zawa:frigate
+[19:07:22] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.2 and blood value 0 for entity zawa:greenanaconda
+[19:07:23] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound2' in StructureBoundingBox{x0=-2754, y0=59, z0=-187, x1=-2742, y1=69, z1=-174} (0)
+[19:07:32] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 1.0 and blood value 10 for entity zawa:macaw
+[19:07:44] [Server thread/TRACE] [reccomplex]: Structure 'StonePlantMound2' canceled generation at [-2787, -81] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:07:47] [Server thread/TRACE] [reccomplex]: StonePlantMound3 failed to spawn at [-2977, -59] (incompatible biome edge)
+[19:07:50] [Server thread/TRACE] [reccomplex]: Structure 'StonePlantMound4' canceled generation at [-2772, -50] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:07:54] [Server thread/TRACE] [reccomplex]: StonePlantMound1 failed to spawn at [-2706, -38] (incompatible biome edge)
+[19:07:58] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound4' in StructureBoundingBox{x0=-2667, y0=63, z0=-18, x1=-2660, y1=69, z1=-11} (0)
+[19:08:21] [Server thread/TRACE] [reccomplex]: Structure 'StonePlantMound' canceled generation at [-2576, -184] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:08:24] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneLeafMound' in StructureBoundingBox{x0=-2561, y0=67, z0=-246, x1=-2552, y1=70, z1=-239} (0)
+[19:08:26] [Server thread/TRACE] [reccomplex]: Generated structure 'VillageForgeLarge' in StructureBoundingBox{x0=-2725, y0=60, z0=42, x1=-2713, y1=71, z1=58} (0)
+[19:08:26] [Server thread/TRACE] [reccomplex]: Generated structure 'VillageHouseRich' in StructureBoundingBox{x0=-2709, y0=60, z0=42, x1=-2694, y1=86, z1=61} (0)
+[19:08:30] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:hunter_expert`. A random skin will be generated.
+[19:08:30] [Server thread/TRACE] [reccomplex]: Generated structure 'PeacefulCrypt' in StructureBoundingBox{x0=-2635, y0=72, z0=49, x1=-2619, y1=77, z1=73} (0)
+[19:08:31] [Server thread/TRACE] [reccomplex]: Generated structure 'VillageTriplets' in StructureBoundingBox{x0=-2798, y0=61, z0=70, x1=-2784, y1=73, z1=84} (0)
+[19:08:31] [Server thread/TRACE] [reccomplex]: Generated structure 'VillageTriplets' in StructureBoundingBox{x0=-2798, y0=61, z0=70, x1=-2784, y1=73, z1=84} (0)
+[19:08:31] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:hunter_expert`. A random skin will be generated.
+[19:08:31] [Server thread/TRACE] [reccomplex]: Generated structure 'MeteorSite' in StructureBoundingBox{x0=-2579, y0=64, z0=46, x1=-2564, y1=75, z1=76} (0)
+[19:08:34] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound2' in StructureBoundingBox{x0=-2704, y0=61, z0=81, x1=-2691, y1=71, z1=93} (0)
+[19:08:34] [Server thread/WARN] [mca]: No skin found for profession: `vampirism:hunter_expert`. A random skin will be generated.
+[19:08:34] [Server thread/TRACE] [reccomplex]: Generated structure 'VillageMarketplace' in StructureBoundingBox{x0=-2762, y0=61, z0=74, x1=-2748, y1=70, z1=88} (0)
+[19:08:37] [Server thread/TRACE] [reccomplex]: Generated structure 'VillageGuardTower' in StructureBoundingBox{x0=-2786, y0=60, z0=93, x1=-2774, y1=89, z1=105} (0)
+[19:08:42] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound2' in StructureBoundingBox{x0=-2595, y0=70, z0=127, x1=-2582, y1=80, z1=139} (0)
+[19:08:42] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound2' in StructureBoundingBox{x0=-2565, y0=71, z0=119, x1=-2552, y1=81, z1=131} (0)
+[19:08:45] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneBoulder' in StructureBoundingBox{x0=-2460, y0=62, z0=-160, x1=-2451, y1=76, z1=-151} (0)
+[19:08:45] [Server thread/TRACE] [reccomplex]: Structure 'StonePlantBoulder' canceled generation at [-2475, 56] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:08:50] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneBoulder' in StructureBoundingBox{x0=-2679, y0=58, z0=173, x1=-2670, y1=72, z1=182} (0)
+[19:08:55] [Server thread/TRACE] [reccomplex]: Structure 'StoneLeafMound' canceled generation at [-2601, 188] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:08:55] [Server thread/TRACE] [reccomplex]: Generated structure 'MeteorSite' in StructureBoundingBox{x0=-2795, y0=92, z0=190, x1=-2765, y1=103, z1=205} (0)
+[19:08:58] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound4' in StructureBoundingBox{x0=-2449, y0=69, z0=43, x1=-2442, y1=75, z1=50} (0)
+[19:09:05] [Server thread/TRACE] [reccomplex]: Generated structure 'StoneLeafMound' in StructureBoundingBox{x0=-2605, y0=64, z0=222, x1=-2598, y1=67, z1=231} (0)
+[19:09:05] [Server thread/TRACE] [reccomplex]: Structure 'StonePlantMound2' canceled generation at [-2588, 220] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@6284bbbe
+[19:09:15] [Async Chat Thread - 11/INFO] []: [] DuvanD: que
+[19:09:21] [Async Chat Thread - 11/INFO] []: [] DuvanD: pq esta como enfermo
+[19:09:25] [Async Chat Thread - 11/INFO] []: [] Panno_: qn
+[19:09:31] [Async Chat Thread - 11/INFO] []: [] DuvanD: pipe
+[19:09:35] [Async Chat Thread - 11/INFO] []: [] Panno_: a lol
+[19:09:37] [Async Chat Thread - 11/INFO] []: [] DuvanD: entren al chat de voz
+[19:09:40] [Async Chat Thread - 11/INFO] []: [] DuvanD: al grupo
+[19:09:45] [Async Chat Thread - 11/INFO] []: [] Panno_: tamos en llamada por aparte xd
+[19:09:51] [Async Chat Thread - 11/INFO] []: [] DuvanD: a
+[19:10:07] [Async Chat Thread - 11/INFO] []: [] DuvanD: nse
+[19:11:22] [Async Chat Thread - 12/INFO] []: [] DuvanD: la cague
+[19:11:26] [Async Chat Thread - 12/INFO] []: [] DuvanD: me hice 40 barriles
+[19:11:31] [Async Chat Thread - 12/INFO] []: [] DuvanD: pero no eran los de fermentar vino
+[19:11:37] [Async Chat Thread - 12/INFO] []: [] DuvanD: eran los de almacenamiento
+[19:11:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:13:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Panno_ issued server command: /tp @s 243 83.5 -582
+[19:13:23] [Async Chat Thread - 13/INFO] []: [] DuvanD: 70 de dificultad tengo
+[19:13:29] [Async Chat Thread - 13/INFO] []: [] DuvanD: si
+[19:13:40] [Async Chat Thread - 13/INFO] []: [] DuvanD: ayer no
+[19:13:50] [Async Chat Thread - 13/INFO] []: [] DuvanD: ayer no jugue
+[19:14:48] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallFire' in StructureBoundingBox{x0=-2955, y0=15, z0=191, x1=-2945, y1=22, z1=201} (0)
+[19:15:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 38309568-8b85-337d-85c7-646e73284045 timed out
+[19:15:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player Pou20
+[19:15:29] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to Pou20
+[19:15:29] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 1 groups with Pou20
+[19:15:29] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Pou20
+[19:15:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to Pou20
+[19:15:29] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 38309568-8b85-337d-85c7-646e73284045 to disconnected: {disabled=false, disconnected=true, uuid=38309568-8b85-337d-85c7-646e73284045, name=Pou20, group=null}
+[19:15:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[19:15:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[19:15:29] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[19:15:29] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 1 groups with lJuqncl
+[19:15:29] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[19:15:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[19:15:29] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=095404c2-4bd0-40db-800d-02e2924331ca}
+[19:15:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lJuqncl lost connection: Timed out
+[19:15:35] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of lJuqncl
+[19:15:35] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lJuqncl
+[19:15:35] [Server thread/INFO] []: [-] lJuqncl
+[19:15:35] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[19:15:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pou20 lost connection: Timed out
+[19:15:41] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of Pou20
+[19:15:41] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Pou20
+[19:15:41] [Server thread/INFO] []: [-] Pou20
+[19:15:41] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[19:15:52] [User Authenticator #8/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Pou20 is 38309568-8b85-337d-85c7-646e73284045
+[19:15:53] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:15:53] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:15:53] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:15:53] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:15:53] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[19:15:53] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[19:15:53] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[19:15:53] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[19:15:53] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:15:53] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[19:15:53] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[19:15:54] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:15:54] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[19:15:54] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:15:54] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:15:54] [Server thread/INFO] []: [+] Pou20
+[19:15:54] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:15:54] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['Pou20'/40909, uuid='38309568-8b85-337d-85c7-646e73284045', l='world', x=252.42, y=79.00, z=-600.68, cx=15, cd=-38, tl=201613, v=true, d=false](Pou20 at 252.41846000132463,79.0,-600.677164694988))
+[19:15:54] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of Pou20: {disabled=false, disconnected=true, uuid=38309568-8b85-337d-85c7-646e73284045, name=Pou20, group=null}
+[19:15:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Pou20[/127.23.235.141:38371] logged in with entity id 40909 at ([world]252.41846000132463, 79.0, -600.677164694988)
+[19:15:56] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Received secret request of Pou20 (18)
+[19:15:56] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Sending initial states to Pou20
+[19:15:56] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 1 groups with Pou20
+[19:15:56] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Pou20
+[19:15:56] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Sent secret to Pou20
+[19:15:57] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 38309568-8b85-337d-85c7-646e73284045
+[19:15:58] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 38309568-8b85-337d-85c7-646e73284045
+[19:15:58] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of Pou20 to connected: {disabled=false, disconnected=false, uuid=38309568-8b85-337d-85c7-646e73284045, name=Pou20, group=null}
+[19:15:58] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Pou20 (38309568-8b85-337d-85c7-646e73284045) successfully connected to voice chat
+[19:15:58] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of Pou20: {disabled=false, disconnected=false, uuid=38309568-8b85-337d-85c7-646e73284045, name=Pou20, group=null}
