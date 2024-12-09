@@ -7,6 +7,10 @@
         {
             "Points": 2000,
             "Faction": 0
+        },
+        {
+            "Points": 1000,
+            "Faction": 1
         }
     ],
     "BankData": [
