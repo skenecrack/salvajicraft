@@ -30108,3 +30108,49 @@
 [18:59:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD is now a Vampire level 0
 [18:59:47] [Async Chat Thread - 7/INFO] []: [] lJuqncl: grupo?
 [18:59:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /vampirism level Vampire 0 lJuaqncl
+[18:59:55] [Async Chat Thread - 7/INFO] []: [] lJuqncl: uy
+[18:59:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /vampirism level Vampire 0 lJuqncl
+[18:59:59] [Server thread/DEBUG] [vampirism]: [FactionPlayerHandler]Leaving faction vampirism:ivampireplayer
+[18:59:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lJuqncl is now a Vampire level 0
+[19:00:01] [Async Chat Thread - 7/INFO] []: [] DuvanD: listo
+[19:00:02] [Async Chat Thread - 7/INFO] []: [] DuvanD: xd
+[19:00:04] [Async Chat Thread - 7/INFO] []: [] lJuqncl: ey ey
+[19:00:05] [Async Chat Thread - 7/INFO] []: [] DuvanD: ya noes vampiro
+[19:00:08] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Setting group of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=48fa8556-69d1-40f5-b068-9c782bd966ae}
+[19:00:09] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Setting group of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=48fa8556-69d1-40f5-b068-9c782bd966ae}
+[19:00:11] [Async Chat Thread - 7/INFO] []: [] DuvanD: hola
+[19:00:17] [Async Chat Thread - 7/INFO] []: [] lJuqncl: >;(
+[19:00:19] [Async Chat Thread - 7/INFO] []: [] lJuqncl: hola
+[19:00:21] [Async Chat Thread - 7/INFO] []: [] lJuqncl: grupo
+[19:00:23] [Async Chat Thread - 7/INFO] []: [] DuvanD: ya
+[19:00:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:00:59] [Async Chat Thread - 7/INFO] []: [] DuvanD: si
+[19:01:00] [Async Chat Thread - 7/INFO] []: [] DuvanD: pruebe
+[19:01:04] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [297, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@16ff0e25
+[19:01:49] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:brownrat
+[19:01:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /scalinghealth difficulty get DuvanD
+[19:01:58] [Async Chat Thread - 7/INFO] []: [] DuvanD: yo 93 me gano
+[19:02:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:02:23] [Async Chat Thread - 7/INFO] []: [] DuvanD: bn voy a hacer la mision
+[19:02:42] [Async Chat Thread - 7/INFO] []: [] DuvanD: dnd pongo el npc
+[19:02:44] [Server thread/INFO] [mca]: Villager death: Rivka. Caused by: Zombie. UUID: 2830a890-4cfd-4527-b61e-270653294dc4
+[19:03:06] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[19:03:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:03:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Given [Npc Wand] * 1 to DuvanD]
+[19:04:29] [Async Chat Thread - 8/INFO] []: [] DuvanD: si
+[19:04:37] [Async Chat Thread - 8/INFO] []: [] DuvanD: sangre
+[19:04:47] [Async Chat Thread - 8/INFO] []: [] DuvanD: uy
+[19:04:49] [Async Chat Thread - 8/INFO] []: [] DuvanD: a jaja
+[19:04:53] [Async Chat Thread - 8/INFO] []: [] DuvanD: le mataron a las 3 mujeres
+[19:04:56] [Async Chat Thread - 8/INFO] []: [] DuvanD: jaja pipe me dijo
+[19:05:03] [Async Chat Thread - 8/INFO] []: [] DuvanD: toca que lo haga rapido
+[19:05:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[19:05:16] [Async Chat Thread - 8/INFO] []: [] DuvanD: pq nse si se siguen muriendo mas npc no le salga para revivir
+[19:05:25] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[19:05:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:08:15] [Async Chat Thread - 9/INFO] []: [] DuvanD: nse la vdad
+[19:08:26] [Async Chat Thread - 9/INFO] []: [] DuvanD: es que lo de vampiro sera tipo tematica de jojos
+[19:08:29] [Async Chat Thread - 9/INFO] []: [] DuvanD: ud sabe que es no?
+[19:08:41] [Async Chat Thread - 9/INFO] []: [] DuvanD: con mascara de piedra
+[19:08:49] [Async Chat Thread - 9/INFO] []: [] DuvanD: yo hice el modsito
+[19:08:50] [Async Chat Thread - 9/INFO] []: [] DuvanD: god
