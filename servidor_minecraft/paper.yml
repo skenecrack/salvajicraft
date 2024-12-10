@@ -18,9 +18,6 @@ messages:
     authentication-servers-down: ''
 settings:
   suggest-player-names-when-null-tab-completions: true
-  spam-limiter:
-    tab-spam-increment: 10
-    tab-spam-limit: 500
   book-size:
     page-max: 2560
     total-multiplier: 0.98
@@ -36,6 +33,9 @@ settings:
   save-player-data: true
   use-alternative-luck-formula: false
   min-chunk-load-threads: 2
+  spam-limiter:
+    tab-spam-increment: 10
+    tab-spam-limit: 500
   bungee-online-mode: true
 timings:
   enabled: true

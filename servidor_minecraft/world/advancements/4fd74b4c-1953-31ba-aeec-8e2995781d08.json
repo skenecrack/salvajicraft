@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 04:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-04 04:18:12 +0000"
@@ -95,6 +101,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 04:27:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-12-04 04:18:12 +0000"
@@ -122,6 +134,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-04 04:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2024-12-10 04:31:01 +0000"
     },
     "done": true
   },
@@ -272,6 +290,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-04 04:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 04:31:01 +0000"
     },
     "done": true
   },
@@ -430,6 +454,7 @@
       "shrubland": "2024-12-04 03:56:26 +0000",
       "steppe": "2024-12-04 03:57:21 +0000",
       "highland": "2024-12-04 16:07:56 +0000",
+      "chaparral": "2024-12-10 04:28:39 +0000",
       "cold_desert": "2024-12-02 17:37:28 +0000",
       "boreal_forest": "2024-12-02 17:37:03 +0000",
       "snowy_forest": "2024-12-02 17:37:39 +0000",
@@ -635,6 +660,12 @@
       "creeper": "2024-12-04 04:29:41 +0000"
     },
     "done": false
+  },
+  "wolfarmor:recipes/combat/iron_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2024-12-10 04:31:01 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
