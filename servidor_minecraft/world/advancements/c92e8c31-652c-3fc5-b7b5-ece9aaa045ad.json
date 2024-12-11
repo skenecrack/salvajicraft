@@ -1358,6 +1358,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/brown_dye_from_flat_mushroom": {
+    "criteria": {
+      "has_flower": "2024-12-11 22:47:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon_block": {
     "criteria": {
       "has_melon": "2024-12-05 21:03:58 +0000"
