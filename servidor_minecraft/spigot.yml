@@ -12,6 +12,15 @@
 
 config-version: 11
 settings:
+  late-bind: false
+  filter-creative-items: true
+  int-cache-limit: 1024
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-multiplier: 10.0
+  item-dirty-ticks: 20
+  save-user-cache-on-stop-only: false
+  sample-count: 12
+  bungeecord: false
   attribute:
     maxHealth:
       max: 2048.0
@@ -19,19 +28,10 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  filter-creative-items: true
-  int-cache-limit: 1024
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-multiplier: 10.0
-  item-dirty-ticks: 20
   timeout-time: 90
   restart-on-crash: true
   restart-script: ./start.sh
   netty-threads: 4
-  late-bind: false
-  bungeecord: false
-  save-user-cache-on-stop-only: false
-  sample-count: 12
   player-shuffle: 0
   user-cache-size: 1000
 commands:
@@ -42,8 +42,8 @@ commands:
   - summon
   - testforblock
   - tellraw
-  log: true
   tab-complete: 0
+  log: true
   silent-commandblock-console: false
 messages:
   restart: Server is restarting
@@ -103,17 +103,17 @@ world-settings:
     max-growth-height:
       cactus: 3
       reeds: 3
-    zombie-aggressive-towards-villager: true
-    nerf-spawner-mobs: false
+    wither-spawn-sound-radius: 0
     hanging-tick-frequency: 100
+    view-distance: 10
+    enable-zombie-pigmen-portal-spawns: true
+    zombie-aggressive-towards-villager: true
     merge-radius:
       exp: 3.0
       item: 2.5
     item-despawn-rate: 6000
     arrow-despawn-rate: 1200
-    enable-zombie-pigmen-portal-spawns: true
-    wither-spawn-sound-radius: 0
-    view-distance: 10
+    nerf-spawner-mobs: false
     entity-tracking-range:
       players: 48
       animals: 48
