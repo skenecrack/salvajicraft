@@ -11,6 +11,14 @@
         {
             "Points": 1000,
             "Faction": 1
+        },
+        {
+            "Points": 1000,
+            "Faction": 3
+        },
+        {
+            "Points": 1000,
+            "Faction": 4
         }
     ],
     "BankData": [
@@ -26,7 +34,7 @@
                 "ExtraData": {
                     "Killed": [
                         {
-                            "Value": 5,
+                            "Value": 6,
                             "Slot": "vampirism.vampire"
                         }
                     ]
@@ -48,6 +56,12 @@
         },
         {
             "Dialog": 12
+        },
+        {
+            "Dialog": 13
+        },
+        {
+            "Dialog": 14
         }
     ],
     "ItemGiverChained": [

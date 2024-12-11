@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/find_grave_dust": {
+    "criteria": {
+      "has_grave_dust": "2024-12-11 02:24:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-02 17:36:25 +0000"
@@ -176,6 +182,12 @@
   "minecraft:recipes/building_blocks/lime_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2024-12-04 04:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-11 03:06:19 +0000"
     },
     "done": true
   },
@@ -425,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-11 01:58:45 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_mahogany": {
     "criteria": {
       "entered_water": "2024-12-02 17:38:50 +0000"
@@ -467,13 +485,23 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-12-11 02:24:47 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2024-12-04 03:56:26 +0000",
       "steppe": "2024-12-04 03:57:21 +0000",
       "highland": "2024-12-04 16:07:56 +0000",
       "chaparral": "2024-12-10 04:28:39 +0000",
+      "wetland": "2024-12-11 02:33:57 +0000",
       "cold_desert": "2024-12-02 17:37:28 +0000",
+      "coral_reef": "2024-12-11 03:03:53 +0000",
+      "coniferous_forest": "2024-12-11 02:44:03 +0000",
+      "shield": "2024-12-11 02:45:23 +0000",
       "boreal_forest": "2024-12-02 17:37:03 +0000",
       "snowy_forest": "2024-12-02 17:37:39 +0000",
       "snowy_coniferous_forest": "2024-12-02 17:38:30 +0000",
@@ -514,7 +542,10 @@
       "savanna": "2024-12-02 17:41:08 +0000",
       "plains": "2024-12-02 17:36:24 +0000",
       "mesa_clear_rock": "2024-12-04 04:07:44 +0000",
+      "taiga": "2024-12-11 02:35:38 +0000",
       "ocean": "2024-12-04 16:07:36 +0000",
+      "roofed_forest": "2024-12-11 02:39:32 +0000",
+      "cold_beach": "2024-12-11 02:42:49 +0000",
       "river": "2024-12-02 17:38:49 +0000"
     },
     "done": false

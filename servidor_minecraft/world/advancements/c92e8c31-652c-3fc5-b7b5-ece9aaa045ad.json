@@ -490,6 +490,7 @@
       "shrubland": "2024-12-03 22:17:34 +0000",
       "steppe": "2024-12-03 22:34:16 +0000",
       "chaparral": "2024-12-03 21:42:35 +0000",
+      "wetland": "2024-12-11 02:34:14 +0000",
       "coral_reef": "2024-12-05 23:44:59 +0000",
       "coniferous_forest": "2024-12-06 00:04:34 +0000",
       "boreal_forest": "2024-12-04 01:03:34 +0000",
@@ -499,6 +500,12 @@
       "brushland": "2024-12-03 21:32:30 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/misc/brown_dye_from_cattail": {
+    "criteria": {
+      "has_flower": "2024-12-11 02:37:52 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
@@ -599,6 +606,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-01 02:59:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/white_wool_from_cattails": {
+    "criteria": {
+      "has_log": "2024-12-11 02:37:52 +0000"
     },
     "done": true
   },
@@ -862,6 +875,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-05 22:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2024-12-11 02:37:58 +0000"
     },
     "done": true
   },
@@ -1167,6 +1186,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2024-12-11 02:42:51 +0000",
       "forest": "2024-12-03 21:30:18 +0000",
       "deep_ocean": "2024-12-05 23:35:47 +0000",
       "beaches": "2024-12-01 03:05:43 +0000",
@@ -1176,6 +1196,8 @@
       "taiga_hills": "2024-12-05 23:59:52 +0000",
       "ocean": "2024-12-01 03:05:45 +0000",
       "extreme_hills": "2024-12-09 23:10:03 +0000",
+      "roofed_forest": "2024-12-11 02:42:11 +0000",
+      "cold_beach": "2024-12-11 02:42:49 +0000",
       "river": "2024-12-03 21:42:27 +0000"
     },
     "done": false
