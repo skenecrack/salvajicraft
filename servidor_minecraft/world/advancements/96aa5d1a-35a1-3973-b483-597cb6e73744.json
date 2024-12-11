@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_barakoana": {
+    "criteria": {
+      "barakoana": "2024-12-11 21:02:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-03 21:36:36 +0000"
