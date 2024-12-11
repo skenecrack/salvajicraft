@@ -30160,3 +30160,108 @@
 [19:57:46] [Async Chat Thread - 6/INFO] []: [] DuvanD: ahi los reproduce
 [19:57:47] [Async Chat Thread - 6/INFO] []: [] lJuqncl: thx
 [19:58:00] [Async Chat Thread - 6/INFO] []: [] DuvanD: dsp vengo por carne de cerdo xd
+[19:58:04] [Async Chat Thread - 6/INFO] []: [] lJuqncl: xD
+[19:58:26] [Async Chat Thread - 6/INFO] []: [] DuvanD: oe hay que hacer una forma de
+[19:58:32] [Async Chat Thread - 6/INFO] []: [] DuvanD: pasar items
+[19:58:40] [Async Chat Thread - 6/INFO] []: [] DuvanD: entre bases
+[19:58:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:58:45] [Async Chat Thread - 6/INFO] []: [] lJuqncl: como asi
+[19:59:00] [Async Chat Thread - 6/INFO] []: [] DuvanD: tipo pa yo mandarle items dede mi base y que le llegen automaticamente a ud
+[19:59:06] [Netty Epoll Server IO #0/ERROR] [voicechat]: [voicechat] Failed to process packet
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1469) ~[?:1.8.0_432]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1493) ~[?:1.8.0_432]
+	at org.bukkit.permissions.PermissibleBase.clearPermissions(PermissibleBase.java:174) ~[PermissibleBase.class:?]
+	at nl.svenar.PowerRanks.Data.PowerPermissibleBase.clearPermissions(PowerPermissibleBase.java:175) ~[?:?]
+	at org.bukkit.permissions.PermissibleBase.recalculatePermissions(PermissibleBase.java:155) ~[PermissibleBase.class:?]
+	at nl.svenar.PowerRanks.Data.PowerPermissibleBase.recalculatePermissions(PowerPermissibleBase.java:88) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.entity.CraftHumanEntity.recalculatePermissions(CraftHumanEntity.java:176) ~[CraftHumanEntity.class:?]
+	at nl.svenar.PowerRanks.PowerRanks.getEffectivePlayerPermissions(PowerRanks.java:941) ~[?:?]
+	at nl.svenar.PowerRanks.Data.PowerPermissibleBase.hasPermission(PowerPermissibleBase.java:40) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.entity.CraftHumanEntity.hasPermission(CraftHumanEntity.java:148) ~[CraftHumanEntity.class:?]
+	at com.mohistmc.forge.BukkitPermissionsHandler.hasPermission(BukkitPermissionsHandler.java:43) ~[BukkitPermissionsHandler.class:?]
+	at net.minecraftforge.server.permission.PermissionAPI.hasPermission(PermissionAPI.java:82) ~[PermissionAPI.class:?]
+	at net.minecraftforge.server.permission.PermissionAPI.hasPermission(PermissionAPI.java:93) ~[PermissionAPI.class:?]
+	at de.maxhenkel.voicechat.permission.ForgePermission.hasPermission(ForgePermission.java:31) ~[ForgePermission.class:1.12.2-2.5.26]
+	at de.maxhenkel.voicechat.voice.server.ServerGroupManager.lambda$new$1(ServerGroupManager.java:45) ~[ServerGroupManager.class:1.12.2-2.5.26]
+	at de.maxhenkel.voicechat.net.Channel.onServerPacket(Channel.java:38) ~[Channel.class:1.12.2-2.5.26]
+	at de.maxhenkel.voicechat.net.ForgeNetManager.lambda$registerReceiver$0(ForgeNetManager.java:24) ~[ForgeNetManager.class:1.12.2-2.5.26]
+	at de.maxhenkel.voicechat.net.ForgeNetworkEvents.onCustomPayloadServer(ForgeNetworkEvents.java:29) [ForgeNetworkEvents.class:1.12.2-2.5.26]
+	at net.minecraft.network.NetHandlerPlayServer.handler$zba000$processCustomPayload(NetHandlerPlayServer.java:3496) [pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147349_a(NetHandlerPlayServer.java) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketCustomPayload.func_148833_a(CPacketCustomPayload.java:59) [lh.class:?]
+	at net.minecraft.network.play.client.CPacketCustomPayload.func_148833_a(CPacketCustomPayload.java:11) [lh.class:?]
+	at net.minecraft.network.NetworkManager.channelRead0(NetworkManager.java:160) [gw.class:?]
+	at net.minecraft.network.NetworkManager.channelRead0(NetworkManager.java:51) [gw.class:?]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105) [SimpleChannelInboundHandler.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.channelRead0(NetworkDispatcher.java:280) [NetworkDispatcher.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.channelRead0(NetworkDispatcher.java:70) [NetworkDispatcher.class:?]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105) [SimpleChannelInboundHandler.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310) [ByteToMessageDecoder.class:4.1.24.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284) [ByteToMessageDecoder.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310) [ByteToMessageDecoder.class:4.1.24.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284) [ByteToMessageDecoder.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310) [ByteToMessageDecoder.class:4.1.24.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284) [ByteToMessageDecoder.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) [IdleStateHandler.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434) [DefaultChannelPipeline$HeadContext.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:4.1.24.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965) [DefaultChannelPipeline.class:4.1.24.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:808) [AbstractEpollStreamChannel$EpollStreamUnsafe.class:4.1.24.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:404) [EpollEventLoop.class:4.1.24.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:304) [EpollEventLoop.class:4.1.24.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884) [SingleThreadEventExecutor$5.class:4.1.24.Final]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[19:59:11] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Setting group of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=e7e5468b-77da-4df3-ba97-7048bb8ad5f0}
+[19:59:27] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [296, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@1a33bd4e
+[19:59:27] [Async Chat Thread - 6/INFO] []: [] lJuqncl: estaria m0uy roto no?
+[19:59:33] [Async Chat Thread - 6/INFO] []: [] DuvanD: no
+[19:59:35] [Async Chat Thread - 6/INFO] []: [] DuvanD: bn
+[19:59:38] [Async Chat Thread - 6/INFO] []: [] DuvanD: le lelga a su base
+[19:59:40] [Async Chat Thread - 6/INFO] []: [] DuvanD: con correo
+[19:59:43] [Async Chat Thread - 6/INFO] []: [] DuvanD: osea unas cosa
+[19:59:52] [Async Chat Thread - 6/INFO] []: [] DuvanD: tipo de correo algo asi no se bien voy a mirar
+[20:00:06] [Async Chat Thread - 6/INFO] []: [] DuvanD: buzon es
+[20:00:16] [Async Chat Thread - 6/INFO] []: [] DuvanD: a ya arregle tmb los crasheos
+[20:00:25] [Async Chat Thread - 6/INFO] []: [] DuvanD: es que era pq puse una configuracion mal del waystone
+[20:00:43] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.26 and blood value 0 for entity zawa:indianpangolin
+[20:00:43] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:gilamonster
+[20:00:43] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.15 and blood value 0 for entity zawa:tasmaniandevil
+[20:00:43] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:fijibandediguana
+[20:02:53] [Async Chat Thread - 7/INFO] []: [] DuvanD: grupo
+[20:03:01] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Setting group of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=e7e5468b-77da-4df3-ba97-7048bb8ad5f0}
+[20:03:04] [Async Chat Thread - 7/INFO] []: [] DuvanD: alo
+[20:03:11] [Async Chat Thread - 7/INFO] []: [] DuvanD: un crepeer chetadisimo aca
+[20:03:16] [Async Chat Thread - 7/INFO] []: [] DuvanD: a ver si me dacoras
+[20:03:19] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.05 and blood value 0 for entity zawa:meerkat
+[20:03:20] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.17 and blood value 0 for entity zawa:frigate
+[20:03:28] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[20:03:35] [Async Chat Thread - 7/INFO] []: [] DuvanD: o lo hago explotar pa que me pase los efectos
+[20:03:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:04:02] [Async Chat Thread - 7/INFO] []: [] DuvanD: no
+[20:04:09] [Async Chat Thread - 7/INFO] []: [] DuvanD: bn me exploto el creeper
+[20:04:17] [Async Chat Thread - 7/INFO] []: [] DuvanD: ahora tengo velocidad 99
+[20:05:36] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:brownrat
+[20:06:34] [Async Chat Thread - 8/INFO] []: [] DuvanD: hagase un buzón
+[20:06:38] [Async Chat Thread - 8/INFO] []: [] DuvanD: creoq ue asi se puede mandar cosas
+[20:06:43] [Async Chat Thread - 8/INFO] []: [] DuvanD: pa mandarle vino que no me sirve
+[20:06:44] [Async Chat Thread - 8/INFO] []: [] DuvanD: xd
