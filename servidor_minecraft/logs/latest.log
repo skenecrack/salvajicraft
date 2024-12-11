@@ -30265,3 +30265,29 @@ java.util.ConcurrentModificationException: null
 [20:06:38] [Async Chat Thread - 8/INFO] []: [] DuvanD: creoq ue asi se puede mandar cosas
 [20:06:43] [Async Chat Thread - 8/INFO] []: [] DuvanD: pa mandarle vino que no me sirve
 [20:06:44] [Async Chat Thread - 8/INFO] []: [] DuvanD: xd
+[20:08:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:08:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:08:37] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:08:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:09:16] [Server thread/INFO] [mca]: Villager death: Elfrieda. Caused by: Zombie. UUID: d137305e-a83c-4a4b-8bb0-e9f2dcf6e9a8
+[20:09:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:09:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:10:03] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:10:47] [Async Chat Thread - 9/INFO] []: [] DuvanD: vvoy
+[20:10:54] [Server thread/INFO] [mca]: Villager death: Reina. Caused by: Zombie. UUID: 9c2cd1a8-ebc7-4fff-af60-5e490caeb16c
+[20:11:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:11:32] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:11:43] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:12:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:12:18] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:12:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:13:14] [Server thread/INFO] [Scaling Health]: Blight Zombie was killed by lJuqncl
+[20:13:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:13:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[20:13:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:14:30] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [297, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@1a33bd4e
+[20:15:24] [Async Chat Thread - 10/INFO] []: [] DuvanD: no
+[20:15:34] [Async Chat Thread - 10/INFO] []: [] DuvanD: no se
+[20:15:35] [Async Chat Thread - 10/INFO] []: [] DuvanD: xd
+[20:15:49] [Async Chat Thread - 10/INFO] []: [] DuvanD: aja
+[20:17:22] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [297, -968] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@1a33bd4e
