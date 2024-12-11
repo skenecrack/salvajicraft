@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_flower": "2024-12-10 22:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2024-12-05 04:05:55 +0000"
@@ -230,6 +236,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_at_least_9_emerald": "2024-12-05 22:05:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_white_anemone": {
+    "criteria": {
+      "has_flower": "2024-12-10 21:34:48 +0000"
     },
     "done": true
   },
@@ -459,6 +471,7 @@
       "fen": "2024-12-04 02:42:11 +0000",
       "alps_foothills": "2024-12-05 03:40:56 +0000",
       "bayou": "2024-12-04 02:50:14 +0000",
+      "highland": "2024-12-10 19:35:10 +0000",
       "marsh": "2024-12-04 02:48:59 +0000",
       "chaparral": "2024-12-03 22:24:29 +0000",
       "maple_woods": "2024-12-04 00:49:24 +0000",
@@ -696,6 +709,12 @@
   "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2024-12-05 04:05:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-10 21:34:14 +0000"
     },
     "done": true
   },

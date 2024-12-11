@@ -21,12 +21,33 @@
         "CompletedQuests": [
         ],
         "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                    "Killed": [
+                        {
+                            "Value": 5,
+                            "Slot": "vampirism.vampire"
+                        }
+                    ]
+                },
+                "Quest": 1
+            }
         ]
     },
     "PlayerCompanionId": 0,
     "DialogData": [
         {
             "Dialog": 5
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        },
+        {
+            "Dialog": 12
         }
     ],
     "ItemGiverChained": [
