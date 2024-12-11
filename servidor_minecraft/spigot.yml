@@ -13,16 +13,11 @@
 config-version: 11
 settings:
   bungeecord: false
-  timeout-time: 90
-  restart-on-crash: true
-  restart-script: ./start.sh
+  save-user-cache-on-stop-only: false
+  sample-count: 12
+  player-shuffle: 0
+  user-cache-size: 1000
   netty-threads: 4
-  late-bind: false
-  filter-creative-items: true
-  int-cache-limit: 1024
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-multiplier: 10.0
-  item-dirty-ticks: 20
   attribute:
     maxHealth:
       max: 2048.0
@@ -30,14 +25,21 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  save-user-cache-on-stop-only: false
-  sample-count: 12
-  player-shuffle: 0
-  user-cache-size: 1000
-messages:
-  restart: Server is restarting
+  late-bind: false
+  filter-creative-items: true
+  int-cache-limit: 1024
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-multiplier: 10.0
+  item-dirty-ticks: 20
+  timeout-time: 90
+  restart-on-crash: true
+  restart-script: ./start.sh
+stats:
+  disable-saving: false
+  forced-stats: {}
 commands:
-  log: true
+  tab-complete: 0
+  silent-commandblock-console: false
   spam-exclusions:
   - /skill
   replace-commands:
@@ -45,20 +47,16 @@ commands:
   - summon
   - testforblock
   - tellraw
-  tab-complete: 0
-  silent-commandblock-console: false
-stats:
-  disable-saving: false
-  forced-stats: {}
+  log: true
 advancements:
   disable-saving: false
   disabled:
   - minecraft:story/disabled
+messages:
+  restart: Server is restarting
 world-settings:
   default:
     verbose: false
-    save-structure-info: true
-    mob-spawn-range: 4
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -103,12 +101,10 @@ world-settings:
     max-growth-height:
       cactus: 3
       reeds: 3
-    hanging-tick-frequency: 100
-    zombie-aggressive-towards-villager: true
-    enable-zombie-pigmen-portal-spawns: true
+    mob-spawn-range: 4
+    save-structure-info: true
     nerf-spawner-mobs: false
-    wither-spawn-sound-radius: 0
-    view-distance: 10
+    zombie-aggressive-towards-villager: true
     entity-tracking-range:
       players: 48
       animals: 48
@@ -120,3 +116,7 @@ world-settings:
       item: 2.5
     item-despawn-rate: 6000
     arrow-despawn-rate: 1200
+    enable-zombie-pigmen-portal-spawns: true
+    wither-spawn-sound-radius: 0
+    view-distance: 10
+    hanging-tick-frequency: 100
