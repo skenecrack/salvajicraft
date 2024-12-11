@@ -30277,3 +30277,15 @@
 [23:35:25] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [498, -1719] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@c5c3e80
 [23:35:47] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Indian Gharial is 0.001
 [23:36:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[23:36:57] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Enderman is 0.01
+[23:38:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:38:46] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [297, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@c5c3e80
+[23:39:29] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallAir' in StructureBoundingBox{x0=781, y0=213, z0=-1784, x1=789, y1=221, z1=-1776} (0)
+[23:39:29] [Server thread/TRACE] [reccomplex]: Generated structure 'SmallWoodenCottage' in StructureBoundingBox{x0=783, y0=71, z0=-1760, x1=794, y1=82, z1=-1752} (0)
+[23:39:44] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [296, -970] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@c5c3e80
+[23:42:03] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Troll is 0.01
+[23:42:12] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree' in StructureBoundingBox{x0=582, y0=71, z0=-1910, x1=586, y1=83, z1=-1906} (0)
+[23:43:11] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[23:43:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:44:15] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.22 and blood value 0 for entity zawa:macaw
+[23:44:39] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Vampire is 0.001
