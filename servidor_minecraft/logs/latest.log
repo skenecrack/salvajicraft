@@ -30482,3 +30482,570 @@
 [22:28:04] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
 [22:28:04] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
 [22:28:14] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [296, -970] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@74593903
+[22:28:47] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:28:47] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:28:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:28:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:28:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:28:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:28:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:28:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:28:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:28:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:28:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:28:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:28:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:28:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:28:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:28:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:28:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:28:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:28:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:28:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:28:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:28:49] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:28:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:28:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:28:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:28:49] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:29:02] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:29:02] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:29:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:29:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:29:03] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:29:03] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:29:03] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:29:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:29:03] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:29:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:29:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:29:03] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:29:03] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:29:03] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:29:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:29:03] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:29:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:29:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:29:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:29:04] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:29:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:29:04] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:29:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:29:04] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:29:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:29:04] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:29:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:29:47] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:29:47] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:29:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:29:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:29:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:29:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:29:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:29:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:29:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:29:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:29:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:29:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:29:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:29:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:29:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:29:48] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:29:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:29:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:29:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:29:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:29:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:29:49] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:29:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:29:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:29:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:29:49] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:30:02] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:30:02] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:30:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:30:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:30:03] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:30:03] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:30:03] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:30:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:30:03] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:30:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:30:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:30:03] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:30:03] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:30:03] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:30:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:30:03] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:30:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:30:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:30:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:30:04] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:30:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:30:04] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:30:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:30:04] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:30:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:30:05] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:30:25] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [299, -970] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@74593903
+[22:30:48] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:30:48] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:30:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:30:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:30:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:30:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:30:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:30:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:30:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:30:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:30:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:30:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:30:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:30:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:30:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:30:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:30:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:30:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:30:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:30:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:30:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:30:50] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:30:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:30:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:30:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:30:50] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:31:04] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:31:04] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:31:05] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:31:05] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:31:05] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:31:05] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:31:05] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:31:05] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:31:05] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:31:05] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:31:05] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:31:05] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:31:05] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:31:05] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:31:05] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:31:05] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:31:05] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:31:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:31:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:31:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:31:06] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:31:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:31:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:31:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:31:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:31:07] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:31:48] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:31:48] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:31:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:31:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:31:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:31:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:31:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:31:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:31:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:31:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:31:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:31:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:31:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:31:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:31:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:31:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:31:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:31:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:31:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:31:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:31:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:31:50] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:31:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:31:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:31:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:31:50] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:32:05] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:32:05] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:32:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:32:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:32:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:32:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:32:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:32:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:32:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:32:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:32:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:32:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:32:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:32:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:32:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:32:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:32:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:32:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:32:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:32:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:32:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:32:07] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:32:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:32:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:32:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:32:07] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:32:17] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[22:32:20] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [297, -968] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@74593903
+[22:32:41] [Netty Epoll Server IO #2/WARN] [net.minecraft.server.MinecraftServer]: lJuqncl: tried to use custom npcs without being an op
+[22:32:48] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:32:48] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:32:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:32:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:32:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:32:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:32:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:32:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:32:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:32:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:32:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:32:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:32:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:32:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:32:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:32:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:32:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:32:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:32:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:32:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:32:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:32:50] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:32:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:32:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:32:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:32:51] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:33:00] [Netty Epoll Server IO #2/WARN] [net.minecraft.server.MinecraftServer]: lJuqncl: tried to use custom npcs without being an op
+[22:33:02] [Netty Epoll Server IO #2/WARN] [net.minecraft.server.MinecraftServer]: lJuqncl: tried to use custom npcs without being an op
+[22:33:03] [Netty Epoll Server IO #2/WARN] [net.minecraft.server.MinecraftServer]: lJuqncl: tried to use custom npcs without being an op
+[22:33:05] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:33:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:33:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:33:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:33:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:33:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:33:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:33:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:33:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:33:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:33:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:33:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:33:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:33:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:33:06] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:33:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:33:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:33:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:33:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:33:08] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:33:11] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:33:12] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:33:12] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:33:12] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:33:13] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:33:14] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:33:14] [Async Chat Thread - 8/INFO] []: [] DuvanD: ping
+[22:33:14] [Async Chat Thread - 7/INFO] []: [] DuvanD: aa
+[22:33:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /lr ping
+[22:33:49] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:33:49] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:33:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:33:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:33:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:33:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:33:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:33:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:33:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:33:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:33:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:33:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:33:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:33:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:33:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:33:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:33:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:33:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:33:51] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:33:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:33:51] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:33:51] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:33:51] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:33:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:33:51] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:33:51] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:34:06] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:34:06] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:34:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:34:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:34:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:34:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:34:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:34:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:34:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:34:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:34:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:34:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:34:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:34:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:34:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:34:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:34:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:34:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:34:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:34:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:34:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:34:08] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:34:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:34:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:34:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:34:08] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:34:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:34:48] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:34:48] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:34:48] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.05 and blood value 0 for entity zawa:meerkat
+[22:34:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:34:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:34:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:34:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:34:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:34:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:34:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:34:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:34:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:34:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:34:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:34:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:34:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:34:49] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:34:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:34:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:34:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:34:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:34:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:34:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:34:50] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:34:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:34:50] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:34:50] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:35:06] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:35:06] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:35:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:35:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:35:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:35:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:35:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:35:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:35:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:35:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:35:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:35:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:35:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:35:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:35:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:35:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:35:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:35:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:35:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:35:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:35:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:35:08] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:35:09] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:35:09] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:35:09] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:35:09] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:35:50] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:35:50] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:35:51] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:35:51] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:35:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:35:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:35:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:35:51] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:35:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:35:51] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:35:51] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:35:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:35:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:35:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:35:51] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:35:51] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:35:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:35:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:35:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:35:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:35:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:35:53] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:35:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:35:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:35:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:35:53] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:36:06] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:36:06] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:36:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:36:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:36:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:36:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:36:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:36:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:36:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:36:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:36:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:36:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:36:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:36:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:36:07] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:36:07] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:36:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:36:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:36:09] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:36:09] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:36:09] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:36:09] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:36:09] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:36:09] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:36:09] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:36:09] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:36:51] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:36:51] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:36:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:36:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:36:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:36:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:36:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:36:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:36:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:36:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:36:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:36:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:36:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:36:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:36:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:36:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:36:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:36:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:36:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:36:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:36:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:36:53] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:36:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:36:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:36:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:36:53] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:37:07] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:37:07] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:37:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:37:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:37:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:37:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:37:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:37:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:37:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:37:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:37:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:37:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:37:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:37:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:37:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:37:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:37:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:37:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:37:08] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [297, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@74593903
+[22:37:09] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:37:09] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:37:09] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:37:09] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:37:09] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:37:09] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:37:09] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:37:09] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:37:11] [Server thread/INFO] [mca]: Villager death: Christie. Caused by: Zombie. UUID: 87cd1bfd-62be-44b9-869c-c4f6eb82ce69
+[22:37:42] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [297, -970] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@74593903
+[22:37:51] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:37:51] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:37:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:37:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:37:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:37:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:37:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:37:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:37:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:37:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:37:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:37:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:37:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:37:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:37:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:37:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:37:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:37:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:37:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:37:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:37:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:37:53] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:37:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:37:53] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:37:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:37:53] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:38:07] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:38:07] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:38:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:38:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:38:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:38:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:38:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:38:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:38:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:38:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:38:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:38:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:38:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:38:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:38:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:38:08] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:38:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:38:09] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:38:09] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:38:09] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:38:09] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:38:09] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:38:10] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:38:10] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:38:10] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:38:10] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:38:27] [Server thread/INFO] [Scaling Health]: Blight Zombie was killed by DuvanD
+[22:38:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[22:38:33] [Async Chat Thread - 9/INFO] []: [] DuvanD: ala
+[22:38:36] [Async Chat Thread - 9/INFO] []: [] DuvanD: otros 2 corazones
+[22:38:42] [Async Chat Thread - 9/INFO] []: [] DuvanD: cuantos corazones por mi esposa
+[22:38:51] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:38:51] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:38:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad timed out
+[22:38:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player DuvanD
+[22:38:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to DuvanD
+[22:38:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with DuvanD
+[22:38:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with DuvanD
+[22:38:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to DuvanD
+[22:38:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of c92e8c31-652c-3fc5-b7b5-ece9aaa045ad to disconnected: {disabled=false, disconnected=true, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:38:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[22:38:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[22:38:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[22:38:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[22:38:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[22:38:52] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[22:38:52] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:38:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:38:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:38:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[22:38:54] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:38:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[22:38:54] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[22:38:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c92e8c31-652c-3fc5-b7b5-ece9aaa045ad
+[22:38:54] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[22:38:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
+[22:38:54] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
