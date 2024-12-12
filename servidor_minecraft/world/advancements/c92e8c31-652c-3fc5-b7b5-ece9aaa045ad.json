@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/subterfuge_and_discretion": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 01:43:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_the_recipe": "2024-12-05 21:25:37 +0000"
