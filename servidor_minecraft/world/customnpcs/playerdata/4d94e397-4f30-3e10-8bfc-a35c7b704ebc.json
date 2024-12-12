@@ -34,7 +34,7 @@
                 "ExtraData": {
                     "Killed": [
                         {
-                            "Value": 10,
+                            "Value": 11,
                             "Slot": "vampirism.vampire"
                         }
                     ]
@@ -59,6 +59,9 @@
         },
         {
             "Dialog": 11
+        },
+        {
+            "Dialog": 14
         }
     ],
     "ItemGiverChained": [

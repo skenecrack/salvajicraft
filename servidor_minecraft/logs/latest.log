@@ -164,3 +164,190 @@
 [00:41:34] [Async Chat Thread - 22/INFO] []: [] DuvanD: nada
 [00:43:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [00:44:41] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Troll is 0.01
+[00:48:27] [Server thread/INFO] [Scaling Health]: Blight Hunter has died
+[00:48:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:49:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD is bleeding...
+[00:49:12] [Server thread/INFO] [tombstone]: The death event of the player DuvanD was cancelled by another mod
+[00:49:12] [Server thread/INFO] [tombstone]: DuvanD has successfully been saved
+[00:49:14] [Async Chat Thread - 23/INFO] []: [] DuvanD: na enbcerio
+[00:49:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set score of muertes for player DuvanD to 20
+[00:49:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[00:49:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[00:49:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[00:49:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[00:49:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[00:49:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[00:49:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD was slain by Zombie
+[00:49:16] [Server thread/INFO] [tombstone]: The last known grave of DuvanD is at location [name:Last Grave, x:745, y:32, z:-1792] in the dimension 0
+[00:49:20] [Async Chat Thread - 23/INFO] []: [] lJuqncl: severo el dialogo de tinkerbel
+[00:49:25] [Async Chat Thread - 23/INFO] []: [] DuvanD: jaja
+[00:49:29] [Async Chat Thread - 23/INFO] []: [] DuvanD: eso fue pipe
+[00:50:42] [Server thread/INFO] [Scaling Health]: Blight Hunter has died
+[00:51:06] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[00:53:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:56:00] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Grim Reaper is 0.01
+[00:56:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[00:56:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Moose is 0.001
+[00:56:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Moose is 0.001
+[00:57:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Moose is 0.001
+[00:58:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Moose is 0.001
+[00:58:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:59:19] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [297, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@c5c3e80
+[00:59:34] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Pig is 0.001
+[00:59:54] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Pig is 0.001
+[01:00:06] [Async Chat Thread - 24/INFO] []: [] lJuqncl: oiga
+[01:00:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Pig is 0.001
+[01:00:13] [Async Chat Thread - 24/INFO] []: [] DuvanD: qie
+[01:00:15] [Async Chat Thread - 24/INFO] []: [] lJuqncl: ud se llevo a mi esposa vrd?
+[01:00:21] [Async Chat Thread - 24/INFO] []: [] DuvanD: no
+[01:00:28] [Async Chat Thread - 24/INFO] []: [] DuvanD: osea si lo iva a hacer x
+[01:00:29] [Async Chat Thread - 24/INFO] []: [] DuvanD: d
+[01:00:32] [Async Chat Thread - 24/INFO] []: [] DuvanD: perono lo hice
+[01:00:40] [Async Chat Thread - 24/INFO] []: [] lJuqncl: se tepeo a unas minas asi de la nada y desaparecio del mapa
+[01:00:53] [Async Chat Thread - 24/INFO] []: [] DuvanD: haga el silvato
+[01:01:06] [Async Chat Thread - 24/INFO] []: [] lJuqncl: pero ya no eramos nada
+[01:01:11] [Async Chat Thread - 24/INFO] []: [] DuvanD: a
+[01:01:13] [Async Chat Thread - 24/INFO] []: [] lJuqncl: no sirve o si?
+[01:01:17] [Async Chat Thread - 24/INFO] []: [] DuvanD: no
+[01:01:37] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [297, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@c5c3e80
+[01:01:58] [Async Chat Thread - 24/INFO] []: [] lJuqncl: solo me apar3ece mi hijo, y la tipa no aparece en el baston de los muertos
+[01:02:12] [Async Chat Thread - 24/INFO] []: [] lJuqncl: pero tampoco esta por ningun lado
+[01:03:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:04:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD is bleeding...
+[01:04:02] [Server thread/INFO] [tombstone]: The death event of the player DuvanD was cancelled by another mod
+[01:04:02] [Server thread/INFO] [tombstone]: DuvanD has successfully been saved
+[01:04:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set score of muertes for player DuvanD to 21
+[01:04:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[01:04:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[01:04:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[01:04:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[01:04:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[01:04:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[01:04:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD was slain by Spider
+[01:04:03] [Server thread/INFO] [tombstone]: The last known grave of DuvanD is at location [name:Last Grave, x:593, y:36, z:-1930] in the dimension 0
+[01:04:29] [Async Chat Thread - 25/INFO] []: [] DuvanD: oe digame algo que me haga no quitar la sed ya
+[01:04:45] [Async Chat Thread - 25/INFO] []: [] lJuqncl: nada
+[01:04:51] [Async Chat Thread - 25/INFO] []: [] DuvanD: la voy a quitar
+[01:04:52] [Async Chat Thread - 25/INFO] []: [] lJuqncl: la sed es horrible
+[01:04:52] [Async Chat Thread - 25/INFO] []: [] DuvanD: esa mrd
+[01:05:00] [Async Chat Thread - 25/INFO] []: [] DuvanD: es que si se pudiera tomar otra cosa
+[01:05:05] [Async Chat Thread - 25/INFO] []: [] lJuqncl: real
+[01:05:07] [Async Chat Thread - 25/INFO] []: [] DuvanD: pero tiene que se botelals que ni se puede stackear
+[01:05:11] [Async Chat Thread - 25/INFO] []: [] lJuqncl: y nisiquiera sirve pa nada mas
+[01:05:26] [Async Chat Thread - 25/INFO] []: [] DuvanD: bn orit al quito
+[01:07:47] [Async Chat Thread - 26/INFO] []: [] DuvanD: se esta haciendo de noche o de dia
+[01:08:19] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Troll is 0.01
+[01:08:40] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[01:08:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:11:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cultist Courn is 0.001
+[01:11:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD is bleeding...
+[01:11:27] [Server thread/INFO] [tombstone]: The death event of the player DuvanD was cancelled by another mod
+[01:11:27] [Server thread/INFO] [tombstone]: DuvanD has successfully been saved
+[01:11:30] [Async Chat Thread - 27/INFO] []: [] DuvanD: #X-Generator: crowdin.comitemGroup.MCA=Minecraft Comes Aliveenum.agestate.baby=Bebéenum.agestate.toddler=Infanteenum.agestate.child=Niñoenum.agestate.teen=Adolescenteenum.agestate.adult=Adultoentity.Villager.marauder=Merodeadorentity.Villager.outlaw=Foraji
+[01:11:32] [Async Chat Thread - 27/INFO] []: [] DuvanD: este que
+[01:11:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set score of muertes for player DuvanD to 22
+[01:11:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[01:11:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[01:11:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[01:11:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[01:11:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[01:11:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[01:11:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD was slain by Hunter
+[01:11:37] [Server thread/INFO] [tombstone]: The last known grave of DuvanD is at location [name:Last Grave, x:521, y:64, z:-1692] in the dimension 0
+[01:11:43] [Async Chat Thread - 27/INFO] []: [] DuvanD: esta super chetado
+[01:11:52] [Async Chat Thread - 27/INFO] []: [] lJuqncl: QUE PUSO UD JDASJDADJAD
+[01:12:00] [Async Chat Thread - 27/INFO] []: [] lJuqncl: comandos?
+[01:12:09] [Async Chat Thread - 27/INFO] []: [] DuvanD: no
+[01:12:12] [Async Chat Thread - 27/INFO] []: [] DuvanD: se puso solo
+[01:12:25] [Async Chat Thread - 27/INFO] []: [] lJuqncl: pero que es o que
+[01:12:25] [Async Chat Thread - 27/INFO] []: [] DuvanD: pere afk
+[01:12:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD is bleeding...
+[01:12:32] [Server thread/INFO] [tombstone]: The death event of the player DuvanD was cancelled by another mod
+[01:12:32] [Server thread/INFO] [tombstone]: DuvanD has successfully been saved
+[01:12:45] [Async Chat Thread - 27/INFO] []: [] DuvanD: a que
+[01:12:46] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 16.8 and blood value 0 for entity zawa:reticulatedgiraffe
+[01:12:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /revive DuvanD
+[01:12:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD is bleeding...
+[01:12:50] [Server thread/INFO] [tombstone]: The death event of the player DuvanD was cancelled by another mod
+[01:12:50] [Server thread/INFO] [tombstone]: DuvanD has successfully been saved
+[01:12:54] [Async Chat Thread - 27/INFO] []: [] DuvanD: no per que
+[01:12:58] [Async Chat Thread - 27/INFO] []: [] DuvanD: andaba afk de dnd vino
+[01:13:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /revive DuvanD
+[01:13:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD is bleeding...
+[01:13:04] [Server thread/INFO] [tombstone]: The death event of the player DuvanD was cancelled by another mod
+[01:13:04] [Server thread/INFO] [tombstone]: DuvanD has successfully been saved
+[01:13:14] [Async Chat Thread - 27/INFO] []: [] DuvanD: y putas tenia el coso del tombstone
+[01:13:19] [Async Chat Thread - 27/INFO] []: [] DuvanD: el fecto de que no me atacan
+[01:13:20] [Async Chat Thread - 27/INFO] []: [] DuvanD: bn
+[01:13:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /gamemode c
+[01:13:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set own game mode to Creative Mode]
+[01:13:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /revive DuvanD
+[01:13:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:13:46] [Async Chat Thread - 27/INFO] []: [] DuvanD: no me jodas
+[01:13:53] [Async Chat Thread - 27/INFO] []: [] DuvanD: a nada
+[01:13:54] [Async Chat Thread - 27/INFO] []: [] DuvanD: uff
+[01:13:58] [Async Chat Thread - 27/INFO] []: [] DuvanD: casi pierdo una mochila
+[01:14:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Witch is 0.01
+[01:14:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /gamemode s
+[01:14:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set own game mode to Survival Mode]
+[01:14:54] [Server thread/INFO] [mca]: Villager death: Armando. Caused by: Zombie. UUID: 2e4d55ec-bb5a-4214-8af9-59996098e98a
+[01:14:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Vampire is 0.001
+[01:15:32] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Enderman is 0.01
+[01:15:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /gamemode c
+[01:15:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set own game mode to Creative Mode]
+[01:15:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /gamemode s
+[01:15:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set own game mode to Survival Mode]
+[01:16:28] [Async Chat Thread - 28/INFO] []: [] DuvanD: na ahora que
+[01:16:32] [Async Chat Thread - 28/INFO] []: [] DuvanD: creeper mutante
+[01:16:38] [Async Chat Thread - 28/INFO] []: [] lJuqncl: xD
+[01:16:47] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Enderman is 0.01
+[01:16:50] [Async Chat Thread - 28/INFO] []: [] DuvanD: que asco
+[01:16:54] [Async Chat Thread - 28/INFO] []: [] DuvanD: porque me sale tanta mierda
+[01:17:02] [Async Chat Thread - 28/INFO] []: [] DuvanD: ud que hace
+[01:17:10] [Async Chat Thread - 28/INFO] []: [] lJuqncl: matandow
+[01:17:21] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Hunter is 0.01
+[01:18:15] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.08 and blood value 0 for entity mutantbeasts:creeper_minion
+[01:18:35] [Async Chat Thread - 29/INFO] []: [] DuvanD: me mato al creeper mutante
+[01:18:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:18:42] [Async Chat Thread - 29/INFO] []: [] lJuqncl: ojito
+[01:18:44] [Async Chat Thread - 29/INFO] []: [] lJuqncl: ave
+[01:18:48] [Async Chat Thread - 29/INFO] []: [] DuvanD: listo
+[01:18:53] [Async Chat Thread - 29/INFO] []: [] lJuqncl: esooo
+[01:19:02] [Async Chat Thread - 29/INFO] []: [] DuvanD: ahora tengo un huevo
+[01:19:04] [Async Chat Thread - 29/INFO] []: [] DuvanD: en la cabeza
+[01:19:06] [Async Chat Thread - 29/INFO] []: [] DuvanD: god
+[01:19:57] [Async Chat Thread - 29/INFO] []: [] DuvanD: zombi mutante
+[01:19:58] [Async Chat Thread - 29/INFO] []: [] DuvanD: pero que
+[01:21:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[01:22:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[01:22:27] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [297, -968] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@c5c3e80
+[01:23:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Troll is 0.01
+[01:23:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:23:55] [Async Chat Thread - 30/INFO] []: [] DuvanD: oe
+[01:23:58] [Async Chat Thread - 30/INFO] []: [] DuvanD: ud sabe que es ese huevo?
+[01:24:04] [Async Chat Thread - 30/INFO] []: [] DuvanD: que me solto el creeper mutante
+[01:24:44] [Async Chat Thread - 30/INFO] []: [] lJuqncl: ese
+[01:24:57] [Async Chat Thread - 30/INFO] []: [] lJuqncl: es para que aparezcan creepers chiquitos
+[01:25:00] [Async Chat Thread - 30/INFO] []: [] lJuqncl: o si lo rompe
+[01:25:02] [Async Chat Thread - 30/INFO] []: [] DuvanD: y como o que
+[01:25:11] [Async Chat Thread - 30/INFO] []: [] lJuqncl: le da lo del creeper que es un arma
+[01:25:33] [Async Chat Thread - 30/INFO] []: [] DuvanD: aa
+[01:25:36] [Async Chat Thread - 30/INFO] []: [] DuvanD: desaparecio
+[01:25:36] [Async Chat Thread - 30/INFO] []: [] lJuqncl: los creepers pequeños simplemente agarre el huevo y lleveselo, y despues esdpera y ya
+[01:25:41] [Async Chat Thread - 30/INFO] []: [] lJuqncl: esos nacen solitos
+[01:25:43] [Async Chat Thread - 30/INFO] []: [] lJuqncl: f
+[01:25:50] [Async Chat Thread - 30/INFO] []: [] DuvanD: a ya
+[01:25:51] [Async Chat Thread - 30/INFO] []: [] DuvanD: xd
+[01:25:53] [Async Chat Thread - 30/INFO] []: [] DuvanD: se me habia caido
+[01:26:06] [Async Chat Thread - 30/INFO] []: [] DuvanD: no pueden viajar por waystone
+[01:27:14] [Server thread/INFO] [mca]: Villager death: Dominque. Caused by: Zombie. UUID: d2c15ab0-0669-4078-ac54-6fda50816dd0
+[01:27:35] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Valorous Vol is 0.001
+[01:27:52] [Async Chat Thread - 31/INFO] []: [] lJuqncl: oiga
+[01:27:56] [Async Chat Thread - 31/INFO] []: [] DuvanD: ud a matado troles?
+[01:28:02] [Async Chat Thread - 31/INFO] []: [] lJuqncl: si estan apareciendo mas vampiros con nombre
+[01:28:06] [Async Chat Thread - 31/INFO] []: [] lJuqncl: si, a uno nomas
+[01:28:08] [Async Chat Thread - 31/INFO] []: [] DuvanD: na ya que
+[01:28:11] [Async Chat Thread - 31/INFO] []: [] lJuqncl: el arma de los trolls es uan mrd
+[01:28:20] [Async Chat Thread - 31/INFO] []: [] DuvanD: hpta frio
+[01:28:35] [Async Chat Thread - 31/INFO] []: [] DuvanD: ni con armadura se quita
+[01:28:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
