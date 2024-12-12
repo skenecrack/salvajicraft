@@ -30051,3 +30051,7 @@
 [05:17:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [05:19:51] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree3' canceled generation at [457, -1084] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@4529e59c
 [05:22:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:27:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:32:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:34:17] [Server thread/TRACE] [reccomplex]: Structure 'LodgepolePine' canceled generation at [429, -1097] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@4529e59c
+[05:35:26] [Server thread/TRACE] [reccomplex]: Generated structure 'LodgepolePine' in StructureBoundingBox{x0=469, y0=67, z0=-1094, x1=479, y1=89, z1=-1084} (0)
