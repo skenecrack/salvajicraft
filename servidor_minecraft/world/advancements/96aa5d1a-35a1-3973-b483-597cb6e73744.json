@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-12 16:04:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_red_dye": "2024-12-02 04:16:40 +0000"
@@ -1370,7 +1376,8 @@
     "criteria": {
       "peridot": "2024-12-05 02:51:59 +0000",
       "amber": "2024-12-04 23:39:40 +0000",
-      "ruby": "2024-12-03 22:39:41 +0000"
+      "ruby": "2024-12-03 22:39:41 +0000",
+      "sapphire": "2024-12-12 16:11:53 +0000"
     },
     "done": false
   },
