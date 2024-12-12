@@ -11,11 +11,6 @@
 
 verbose: false
 config-version: 13
-messages:
-  kick:
-    flying-player: Flying is not enabled on this server
-    flying-vehicle: Flying is not enabled on this server
-    authentication-servers-down: ''
 settings:
   suggest-player-names-when-null-tab-completions: true
   spam-limiter:
@@ -37,6 +32,11 @@ settings:
   use-alternative-luck-formula: false
   min-chunk-load-threads: 2
   bungee-online-mode: true
+messages:
+  kick:
+    authentication-servers-down: ''
+    flying-player: Flying is not enabled on this server
+    flying-vehicle: Flying is not enabled on this server
 timings:
   enabled: true
   verbose: true
