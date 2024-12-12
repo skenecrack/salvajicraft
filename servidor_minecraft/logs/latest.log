@@ -30048,3 +30048,6 @@
 [05:09:59] [Server thread/TRACE] [reccomplex]: Generated structure 'GenericTreeSmall' in StructureBoundingBox{x0=464, y0=66, z0=-1075, x1=469, y1=73, z1=-1071} (0)
 [05:10:07] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [448, -1085] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@4529e59c
 [05:12:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:17:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:19:51] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree3' canceled generation at [457, -1084] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@4529e59c
+[05:22:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
