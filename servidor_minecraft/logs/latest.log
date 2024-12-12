@@ -30107,3 +30107,141 @@
 [15:36:41] [Async Chat Thread - 6/INFO] []: [] DuvanD: uy
 [15:36:46] [Async Chat Thread - 6/INFO] []: [] DuvanD: no le basta con 1 no ?
 [15:36:46] [Async Chat Thread - 6/INFO] []: [] DuvanD: xd
+[15:36:59] [Async Chat Thread - 6/INFO] []: [] DuvanD: lo configure
+[15:37:02] [Async Chat Thread - 6/INFO] []: [] DuvanD: eso ya es por su mc
+[15:37:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD has made the advancement [Book of Monsters]
+[15:37:11] [Async Chat Thread - 6/INFO] []: [] DuvanD: ja
+[15:37:13] [Async Chat Thread - 6/INFO] []: [] DuvanD: nse
+[15:37:16] [Async Chat Thread - 6/INFO] []: [] DuvanD: a cague
+[15:37:19] [Async Chat Thread - 6/INFO] []: [] DuvanD: me hice 20 bestiarios
+[15:37:28] [Async Chat Thread - 6/INFO] []: [] DuvanD: estaba ahorita
+[15:37:34] [Async Chat Thread - 6/INFO] []: [] DuvanD: pero me dijo que quitara el tough as nails
+[15:37:37] [Async Chat Thread - 6/INFO] []: [] DuvanD: y ps apague
+[15:37:39] [Async Chat Thread - 6/INFO] []: [] DuvanD: y prendi
+[15:37:43] [Async Chat Thread - 6/INFO] []: [] DuvanD: digale que entre entonces
+[15:37:49] [Async Chat Thread - 6/INFO] []: [] DuvanD: si
+[15:37:51] [Async Chat Thread - 6/INFO] []: [] DuvanD: es una puta mierda
+[15:37:59] [Async Chat Thread - 6/INFO] []: [] DuvanD: las botellas de agua no se puede stackear
+[15:38:11] [Async Chat Thread - 6/INFO] []: [] DuvanD: see
+[15:38:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:38:16] [Async Chat Thread - 6/INFO] []: [] DuvanD: y solo sirve tomar agua de esas
+[15:38:19] [Async Chat Thread - 6/INFO] []: [] DuvanD: no jugo no nada
+[15:38:46] [Async Chat Thread - 6/INFO] []: [] DuvanD: porque
+[15:38:55] [Async Chat Thread - 6/INFO] []: [] DuvanD: jaja
+[15:39:28] [Async Chat Thread - 6/INFO] []: [] DuvanD: leal sabe como es
+[15:39:30] [Async Chat Thread - 6/INFO] []: [] DuvanD: el tiene en la csa
+[15:39:38] [Async Chat Thread - 6/INFO] []: [] DuvanD: aja
+[15:39:51] [Async Chat Thread - 6/INFO] []: [] DuvanD: haga eso
+[15:39:58] [Async Chat Thread - 6/INFO] []: [] DuvanD: gey
+[15:40:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD has made the advancement [Would you Like to Know More?]
+[15:40:36] [Async Chat Thread - 6/INFO] []: [] DuvanD: digale
+[15:40:38] [Async Chat Thread - 6/INFO] []: [] DuvanD: que entre
+[15:40:49] [Async Chat Thread - 6/INFO] []: [] DuvanD: a leal
+[15:40:52] [Async Chat Thread - 6/INFO] []: [] DuvanD: tal vez no sabe
+[15:41:23] [Async Chat Thread - 6/INFO] []: [] DuvanD: xd
+[15:41:25] [Async Chat Thread - 6/INFO] []: [] DuvanD: bobo
+[15:41:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: skenecrackm lost connection: Disconnected
+[15:41:27] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of skenecrackm
+[15:41:27] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client skenecrackm
+[15:41:27] [Server thread/INFO] []: [-] skenecrackm
+[15:43:06] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player skenecrackm is 96aa5d1a-35a1-3973-b483-597cb6e73744
+[15:43:06] [Server thread/TRACE] [FML]: Handshake channel activating
+[15:43:06] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[15:43:06] [Server thread/DEBUG] [FML]:   Next: HELLO
+[15:43:06] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[15:43:06] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:71 mods->FMLHandshakeServerState$2:HELLO
+[15:43:06] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 71 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0,mobends@1.2.1
+[15:43:06] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[15:43:06] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[15:43:06] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[15:43:06] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[15:43:06] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[15:43:07] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[15:43:07] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[15:43:07] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[15:43:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:43:07] [Server thread/INFO] []: [+] skenecrackm
+[15:43:08] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['skenecrackm'/12421, uuid='96aa5d1a-35a1-3973-b483-597cb6e73744', l='world', x=34.76, y=66.00, z=-720.36, cx=2, cd=-46, tl=945650, v=true, d=false](skenecrackm at 34.76224756722432,66.0,-720.3648927119292))
+[15:43:08] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of skenecrackm: {disabled=false, disconnected=true, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[15:43:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: skenecrackm[/127.39.59.244:33693] logged in with entity id 12421 at ([world]34.76224756722432, 66.0, -720.3648927119292)
+[15:43:08] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[15:43:10] [Netty Epoll Server IO #3/INFO] [voicechat]: [voicechat] Received secret request of skenecrackm (18)
+[15:43:10] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Sending initial states to skenecrackm
+[15:43:10] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Synchronizing 1 groups with skenecrackm
+[15:43:10] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with skenecrackm
+[15:43:10] [Netty Epoll Server IO #3/INFO] [voicechat]: [voicechat] Sent secret to skenecrackm
+[15:43:12] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 96aa5d1a-35a1-3973-b483-597cb6e73744
+[15:43:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:43:13] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 96aa5d1a-35a1-3973-b483-597cb6e73744
+[15:43:13] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of skenecrackm to connected: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[15:43:13] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player skenecrackm (96aa5d1a-35a1-3973-b483-597cb6e73744) successfully connected to voice chat
+[15:43:13] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Got state of skenecrackm: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=null}
+[15:43:15] [Async Chat Thread - 7/INFO] []: [] DuvanD: tna rapido le abrio el mc?
+[15:43:18] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player lJuqncl is 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[15:43:18] [Server thread/TRACE] [FML]: Handshake channel activating
+[15:43:18] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[15:43:18] [Server thread/DEBUG] [FML]:   Next: HELLO
+[15:43:18] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[15:43:18] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[15:43:18] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[15:43:18] [Netty Epoll Server IO #0/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[15:43:18] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[15:43:18] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[15:43:18] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[15:43:18] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[15:43:19] [Async Chat Thread - 7/INFO] []: [] DuvanD: grupo
+[15:43:19] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[15:43:19] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[15:43:19] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[15:43:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:43:20] [Server thread/INFO] []: [+] lJuqncl
+[15:43:20] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[15:43:20] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['lJuqncl'/12466, uuid='4d94e397-4f30-3e10-8bfc-a35c7b704ebc', l='world', x=-2031.41, y=90.75, z=88.41, cx=-127, cd=5, tl=2522945, v=true, d=false](lJuqncl at -2031.4122033766635,90.7531999805212,88.40510921620613))
+[15:43:20] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of lJuqncl: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[15:43:20] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: lJuqncl[/127.229.116.146:45973] logged in with entity id 12466 at ([world]-2031.4122033766635, 90.7531999805212, 88.40510921620613)
+[15:43:20] [Async Chat Thread - 7/INFO] []: [] DuvanD: xd
+[15:43:24] [Async Chat Thread - 7/INFO] []: [] DuvanD: oe
+[15:43:26] [Netty Epoll Server IO #3/DEBUG] [voicechat]: [voicechat] Setting group of skenecrackm: {disabled=false, disconnected=false, uuid=96aa5d1a-35a1-3973-b483-597cb6e73744, name=skenecrackm, group=78d2ea9e-f4ed-43c5-989e-4e4ed7b71f8a}
+[15:43:27] [Async Chat Thread - 7/INFO] []: [] DuvanD: stremee
+[15:43:30] [Async Chat Thread - 7/INFO] []: [] DuvanD: y subale la calidad al stream
+[15:43:30] [Netty Epoll Server IO #0/INFO] [voicechat]: [voicechat] Received secret request of lJuqncl (18)
+[15:43:30] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[15:43:30] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Synchronizing 1 groups with lJuqncl
+[15:43:30] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[15:43:30] [Netty Epoll Server IO #0/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[15:43:33] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[15:43:34] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[15:43:34] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[15:43:34] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[15:43:34] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[15:43:36] [Async Chat Thread - 7/INFO] []: [] DuvanD: en obs
+[15:43:44] [Async Chat Thread - 7/INFO] []: [] DuvanD: en kick salen los cosos a 480p
+[15:43:45] [Async Chat Thread - 7/INFO] []: [] lJuqncl: yo?
+[15:43:48] [Async Chat Thread - 7/INFO] []: [] DuvanD: pipe
+[15:43:48] [Async Chat Thread - 7/INFO] []: [] DuvanD: xd
+[15:43:50] [Async Chat Thread - 7/INFO] []: [Owner] skenecrackm: yo XD
+[15:43:58] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Setting group of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=78d2ea9e-f4ed-43c5-989e-4e4ed7b71f8a}
+[15:43:58] [Async Chat Thread - 7/INFO] []: [] DuvanD: me sale a mi sus directos a 480p
+[15:44:02] [Async Chat Thread - 7/INFO] []: [] DuvanD: subale calidad nse mire
+[15:44:07] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.17 and blood value 0 for entity zawa:frigate
+[15:44:09] [Async Chat Thread - 7/INFO] []: [] DuvanD: toe pipe
+[15:44:14] [Async Chat Thread - 7/INFO] []: [] DuvanD: tdigale que me deje robarle mi esposa
+[15:44:28] [Async Chat Thread - 7/INFO] []: [] DuvanD: la revivo yo tonces
+[15:44:30] [Async Chat Thread - 7/INFO] []: [] DuvanD: pq se mrio
+[15:44:34] [Server thread/TRACE] [reccomplex]: Generated structure 'SmallWoodenCottage' in StructureBoundingBox{x0=-2138, y0=91, z0=408, x1=-2130, y1=102, z1=419} (0)
+[15:44:34] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound2' in StructureBoundingBox{x0=-1915, y0=61, z0=409, x1=-1902, y1=71, z1=421} (0)
+[15:44:35] [Async Chat Thread - 7/INFO] []: [] DuvanD: si ella no estaba en su casa
+[15:44:37] [Server thread/TRACE] [reccomplex]: Generated structure 'UndergroundTreeoid' in StructureBoundingBox{x0=-2055, y0=31, z0=436, x1=-2029, y1=55, z1=459} (0)
+[15:44:38] [Server thread/TRACE] [reccomplex]: Generated structure 'DinosaurSkull' in StructureBoundingBox{x0=-2087, y0=78, z0=440, x1=-2076, y1=87, z1=459} (0)
+[15:44:41] [Server thread/TRACE] [reccomplex]: Structure 'StonePlantMound1' canceled generation at [-1935, 463] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@15a57631
+[15:44:44] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound2' in StructureBoundingBox{x0=-2004, y0=76, z0=469, x1=-1991, y1=86, z1=481} (0)
+[15:44:58] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:brownrat
+[15:45:05] [Server thread/TRACE] [reccomplex]: Structure 'StonePlantMound4' canceled generation at [-1938, 510] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@15a57631
+[15:45:26] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[15:45:28] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[15:45:34] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[15:45:43] [Async Chat Thread - 8/INFO] []: [] DuvanD: orita
+[15:45:46] [Async Chat Thread - 8/INFO] []: [] DuvanD: tengo cositas que hacer
+[15:46:08] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantBoulder' in StructureBoundingBox{x0=-2150, y0=57, z0=495, x1=-2140, y1=67, z1=505} (0)
+[15:46:30] [Async Chat Thread - 8/INFO] []: [] DuvanD: la hizo en nieve?
+[15:46:35] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
