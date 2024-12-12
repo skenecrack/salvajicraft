@@ -30025,3 +30025,6 @@
 [04:08:47] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.26 and blood value 0 for entity zawa:indianpangolin
 [04:08:47] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:fijibandediguana
 [04:12:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:17:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:22:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:24:23] [Server thread/TRACE] [reccomplex]: Generated structure 'GenericTreeSmall' in StructureBoundingBox{x0=464, y0=66, z0=-1080, x1=469, y1=73, z1=-1076} (0)
