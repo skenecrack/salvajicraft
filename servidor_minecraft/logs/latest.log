@@ -90,3 +90,46 @@
 [00:16:47] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
 [00:17:06] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
 [00:17:12] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[00:18:18] [Async Chat Thread - 15/INFO] []: [] DuvanD: estan muy chetados
+[00:18:26] [Async Chat Thread - 15/INFO] []: [] DuvanD: ya esta desbalanceado
+[00:18:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:18:34] [Async Chat Thread - 15/INFO] []: [] DuvanD: salen con mucha vida pegan mucho
+[00:18:34] [Async Chat Thread - 15/INFO] []: [] DuvanD: xd
+[00:18:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /scalinghealth difficulty get DuvanD
+[00:18:45] [Async Chat Thread - 15/INFO] []: [] DuvanD: 118 de dificultad
+[00:18:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /scalinghealth difficulty get lJuqncl
+[00:18:53] [Async Chat Thread - 15/INFO] []: [] lJuqncl: pero es qyue ud va sin armadura
+[00:18:58] [Async Chat Thread - 15/INFO] []: [] lJuqncl: no se puede quejar lit
+[00:19:00] [Async Chat Thread - 15/INFO] []: [] DuvanD: pero es que no duran
+[00:19:07] [Async Chat Thread - 15/INFO] []: [] lJuqncl: pero igual
+[00:19:17] [Async Chat Thread - 15/INFO] []: [] lJuqncl: obvio hacen daño proque no tiene armadura
+[00:19:32] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [299, -970] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@c5c3e80
+[00:19:32] [Async Chat Thread - 15/INFO] []: [] lJuqncl: no es que este roto, ya si la vida de los mobs es exagerada
+[00:19:46] [Async Chat Thread - 15/INFO] []: [] DuvanD: si hacen mas daño que unmob normal
+[00:19:49] [Async Chat Thread - 15/INFO] []: [] lJuqncl: una vaca ya aguanta 3 criticos de hacha
+[00:19:59] [Async Chat Thread - 15/INFO] []: [] lJuqncl: obvio hacen mas daño ps
+[00:20:07] [Async Chat Thread - 15/INFO] []: [] lJuqncl: pero normal
+[00:21:54] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [300, -968] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@c5c3e80
+[00:22:09] [Async Chat Thread - 16/INFO] []: [] lJuqncl: oe
+[00:22:16] [Async Chat Thread - 16/INFO] []: [] DuvanD: que
+[00:22:22] [Async Chat Thread - 16/INFO] []: [] lJuqncl: la muerte de guiza fue con parasitos y no se la quitaron xd
+[00:22:40] [Async Chat Thread - 16/INFO] []: [] DuvanD: a nse fue pipe el que quito
+[00:23:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:23:53] [Async Chat Thread - 17/INFO] []: [] DuvanD: estoy a lado de 50 zombies
+[00:23:55] [Async Chat Thread - 17/INFO] []: [] DuvanD: ala
+[00:24:56] [Async Chat Thread - 18/INFO] []: [] DuvanD: estoy en una estrctura toda rara
+[00:25:51] [Async Chat Thread - 18/INFO] []: [] DuvanD: a la verga
+[00:25:54] [Async Chat Thread - 18/INFO] []: [] DuvanD: 50 esqueletos tmb
+[00:26:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD is bleeding...
+[00:26:36] [Server thread/INFO] [tombstone]: The death event of the player DuvanD was cancelled by another mod
+[00:26:36] [Server thread/INFO] [tombstone]: DuvanD has successfully been saved
+[00:26:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set score of muertes for player DuvanD to 19
+[00:26:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[00:26:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[00:26:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[00:26:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[00:26:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[00:26:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Title command successfully executed
+[00:26:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD was slain by Zombie
+[00:26:41] [Server thread/INFO] [tombstone]: The last known grave of DuvanD is at location [name:Last Grave, x:756, y:31, z:-1952] in the dimension 0
+[00:27:04] [Async Chat Thread - 19/INFO] []: [] DuvanD: me bugie
