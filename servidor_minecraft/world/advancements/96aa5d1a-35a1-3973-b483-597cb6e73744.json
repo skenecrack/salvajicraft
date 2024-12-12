@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-12 05:03:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-01 02:54:32 +0000"
@@ -1485,6 +1491,12 @@
   "vampirism:vampire/first_blood": {
     "criteria": {
       "flower": "2024-12-10 04:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-12 05:03:33 +0000"
     },
     "done": true
   },
