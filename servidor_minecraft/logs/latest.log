@@ -30028,3 +30028,7 @@
 [04:17:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:22:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:24:23] [Server thread/TRACE] [reccomplex]: Generated structure 'GenericTreeSmall' in StructureBoundingBox{x0=464, y0=66, z0=-1080, x1=469, y1=73, z1=-1076} (0)
+[04:27:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:32:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:32:36] [Server thread/TRACE] [reccomplex]: Generated structure 'AlascaCedar' in StructureBoundingBox{x0=453, y0=66, z0=-1085, x1=461, y1=88, z1=-1077} (0)
+[04:34:44] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [434, -1086] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@4529e59c
