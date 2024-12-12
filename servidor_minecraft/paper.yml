@@ -28,9 +28,9 @@ settings:
   player-auto-save-rate: -1
   max-player-auto-save-per-tick: -1
   remove-invalid-statistics: false
-  save-player-data: true
   use-alternative-luck-formula: false
   min-chunk-load-threads: 2
+  save-player-data: true
   bungee-online-mode: true
 messages:
   kick:
