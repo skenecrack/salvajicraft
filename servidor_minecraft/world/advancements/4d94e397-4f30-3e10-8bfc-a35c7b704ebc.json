@@ -763,6 +763,12 @@
     },
     "done": true
   },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2024-12-12 00:07:47 +0000"
+    },
+    "done": true
+  },
   "vampirism:main/ancient_knowledge": {
     "criteria": {
       "blood_container": "2024-12-10 00:54:30 +0000"
