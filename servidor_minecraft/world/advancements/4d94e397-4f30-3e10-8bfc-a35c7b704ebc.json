@@ -476,6 +476,7 @@
       "chaparral": "2024-12-03 22:24:29 +0000",
       "cold_desert": "2024-12-11 20:39:11 +0000",
       "maple_woods": "2024-12-04 00:49:24 +0000",
+      "coral_reef": "2024-12-12 15:57:31 +0000",
       "coniferous_forest": "2024-12-09 19:07:35 +0000",
       "outback": "2024-12-04 00:10:33 +0000",
       "shield": "2024-12-11 21:05:18 +0000",
@@ -1779,6 +1780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2024-12-12 16:00:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2024-12-03 20:43:51 +0000"
@@ -2046,6 +2053,12 @@
   "minecraft:recipes/misc/gold_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2024-12-04 03:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2024-12-12 16:00:56 +0000"
     },
     "done": true
   },
@@ -2539,6 +2552,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2024-12-03 21:24:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2024-12-12 16:00:56 +0000"
     },
     "done": true
   },

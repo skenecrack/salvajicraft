@@ -757,6 +757,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-12 16:00:48 +0000"
+    },
+    "done": true
+  },
   "vampirism:main/ancient_knowledge": {
     "criteria": {
       "blood_container": "2024-12-10 00:54:09 +0000"
