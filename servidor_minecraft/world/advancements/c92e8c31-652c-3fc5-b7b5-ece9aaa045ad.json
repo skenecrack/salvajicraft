@@ -41,6 +41,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2024-12-12 20:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-12 19:58:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2024-12-04 23:15:19 +0000"
@@ -53,9 +65,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-12 18:51:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-03 22:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2024-12-12 22:28:23 +0000"
     },
     "done": true
   },
@@ -281,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-12 22:35:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 22:12:08 +0000"
@@ -491,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-12 19:58:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/trapdoor_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-01 02:54:28 +0000"
@@ -501,6 +537,8 @@
     "criteria": {
       "shrubland": "2024-12-03 22:17:34 +0000",
       "steppe": "2024-12-03 22:34:16 +0000",
+      "alps_foothills": "2024-12-12 18:02:04 +0000",
+      "highland": "2024-12-12 20:40:42 +0000",
       "chaparral": "2024-12-03 21:42:35 +0000",
       "wetland": "2024-12-11 02:34:14 +0000",
       "coral_reef": "2024-12-05 23:44:59 +0000",
@@ -508,6 +546,7 @@
       "boreal_forest": "2024-12-04 01:03:34 +0000",
       "temperate_rainforest": "2024-12-05 23:52:11 +0000",
       "kelp_forest": "2024-12-05 23:52:05 +0000",
+      "grassland": "2024-12-12 20:44:35 +0000",
       "snowy_coniferous_forest": "2024-12-12 00:34:40 +0000",
       "tundra": "2024-12-12 00:11:47 +0000",
       "gravel_beach": "2024-12-05 23:35:27 +0000",
@@ -593,6 +632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-12-12 20:09:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_red_wool": "2024-12-04 02:42:17 +0000"
@@ -653,11 +698,20 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2024-12-12 22:35:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2024-12-12 22:23:23 +0000",
       "zombie_villager": "2024-12-04 02:58:26 +0000",
+      "magma_cube": "2024-12-12 22:26:17 +0000",
       "slime": "2024-12-09 19:19:35 +0000",
       "skeleton": "2024-12-03 21:39:23 +0000",
+      "blaze": "2024-12-12 22:25:43 +0000",
       "cave_spider": "2024-12-03 21:46:32 +0000",
       "zombie": "2024-12-03 21:42:10 +0000",
       "witch": "2024-12-03 22:26:16 +0000",
@@ -793,6 +847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-12 22:27:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-12-03 22:32:22 +0000"
@@ -856,6 +916,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2024-12-03 22:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-12-12 20:09:23 +0000"
     },
     "done": true
   },
@@ -1049,6 +1115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-12-12 20:09:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2024-12-03 21:30:48 +0000"
@@ -1216,6 +1288,7 @@
       "plains": "2024-12-01 02:27:05 +0000",
       "taiga": "2024-12-05 23:59:59 +0000",
       "taiga_hills": "2024-12-05 23:59:52 +0000",
+      "birch_forest_hills": "2024-12-12 19:56:18 +0000",
       "ocean": "2024-12-01 03:05:45 +0000",
       "extreme_hills": "2024-12-09 23:10:03 +0000",
       "roofed_forest": "2024-12-11 02:42:11 +0000",
@@ -1257,6 +1330,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-03 21:36:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ancient_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-12 23:53:38 +0000"
     },
     "done": true
   },
@@ -1494,6 +1573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-12-12 20:09:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-04 22:57:57 +0000"
@@ -1515,6 +1600,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-03 22:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-12 19:57:05 +0000"
     },
     "done": true
   },
@@ -1626,9 +1717,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-12 19:58:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-03 22:49:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "gray": "2024-12-12 22:03:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 23:47:33 +0000"
     },
     "done": true
   },
@@ -1682,9 +1791,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-12 22:09:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-03 22:33:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2024-12-12 18:43:51 +0000"
     },
     "done": true
   },
@@ -1769,6 +1890,12 @@
   "vampirism:vampire/max_level": {
     "criteria": {
       "level": "2024-12-01 02:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-12 19:58:12 +0000"
     },
     "done": true
   },
@@ -2013,6 +2140,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-12 19:57:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-03 22:33:12 +0000"
@@ -2076,6 +2209,12 @@
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2024-12-01 02:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2024-12-12 23:38:46 +0000"
     },
     "done": true
   },
@@ -2223,6 +2362,18 @@
     },
     "done": true
   },
+  "tombstone:tutorial/soul_magic": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 18:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-12 22:23:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-03 22:32:22 +0000"
@@ -2277,6 +2428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2024-12-12 18:51:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-03 21:36:02 +0000"
@@ -2286,6 +2443,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-03 23:48:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/use_disenchantment": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 23:47:33 +0000"
     },
     "done": true
   },
@@ -2301,6 +2464,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2024-12-12 18:43:51 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/first_blood": {
     "criteria": {
       "flower": "2024-12-01 02:47:00 +0000"
@@ -2310,6 +2479,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2024-12-05 23:11:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/versatility": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 23:48:04 +0000"
     },
     "done": true
   },
@@ -2331,9 +2506,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/fir_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-12 18:43:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-03 21:41:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/blue_dye_from_blue_milk_cap": {
+    "criteria": {
+      "has_flower": "2024-12-12 20:48:59 +0000"
     },
     "done": true
   },
@@ -2374,6 +2561,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-12 23:53:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2024-12-03 21:36:52 +0000"
@@ -2383,6 +2576,18 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-04 23:06:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-12 22:27:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/master_of_exorcism": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 18:49:48 +0000"
     },
     "done": true
   },
@@ -2428,6 +2633,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-12 22:27:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-12-03 21:40:45 +0000"
@@ -2440,6 +2651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-12 19:58:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-03 22:12:08 +0000"
@@ -2449,6 +2666,18 @@
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2024-12-05 23:11:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/cyan_dye_from_swampflower": {
+    "criteria": {
+      "has_flower": "2024-12-12 20:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2024-12-12 22:28:23 +0000"
     },
     "done": true
   },
@@ -2536,6 +2765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-12 19:58:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_jacaranda": {
     "criteria": {
       "entered_water": "2024-12-01 02:27:05 +0000"
@@ -2563,6 +2798,12 @@
   "biomesoplenty:recipes/misc/pink_dye_from_miners_delight": {
     "criteria": {
       "has_flower": "2024-12-05 02:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2024-12-12 22:28:23 +0000"
     },
     "done": true
   },
@@ -2644,9 +2885,27 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-12 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "sword": "2024-12-12 22:44:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-03 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-12 18:43:51 +0000"
     },
     "done": true
   },
