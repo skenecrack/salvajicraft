@@ -30582,3 +30582,37 @@
 [21:42:25] [Async Chat Thread - 21/INFO] []: [] DuvanD: eso e mio
 [21:42:30] [Async Chat Thread - 21/INFO] []: [] DuvanD: ja
 [21:42:54] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:43:31] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:43:35] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:43:44] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:43:55] [Async Chat Thread - 22/INFO] []: [] DuvanD: que cosa
+[21:44:05] [Async Chat Thread - 22/INFO] []: [] DuvanD: parado de que
+[21:44:15] [Async Chat Thread - 22/INFO] []: [] DuvanD: a ps al lado
+[21:44:24] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:44:26] [Async Chat Thread - 22/INFO] []: [] DuvanD: si quiere
+[21:44:29] [Async Chat Thread - 22/INFO] []: [] DuvanD: pongo como admin
+[21:44:30] [Async Chat Thread - 22/INFO] []: [] DuvanD: un coso
+[21:44:33] [Async Chat Thread - 22/INFO] []: [] DuvanD: que mantenga
+[21:44:37] [Async Chat Thread - 22/INFO] []: [] DuvanD: el chunk cargado
+[21:44:41] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:44:55] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:45:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:45:16] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Squid is 0.001
+[21:45:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:45:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:47:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:47:36] [Async Chat Thread - 23/INFO] []: [] DuvanD: alo
+[21:47:40] [Async Chat Thread - 23/INFO] []: [] DuvanD: no
+[21:47:44] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [300, -968] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@260d7db1
+[21:47:50] [Async Chat Thread - 23/INFO] []: [] DuvanD: orita miro
+[21:48:38] [Async Chat Thread - 23/INFO] []: [] DuvanD: yo no se
+[21:51:27] [Server thread/INFO] [Scaling Health]: Blight Creeper was killed by DuvanD
+[21:51:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[21:51:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lJuqncl has made the advancement [Herc was on a Roll!]
+[21:51:46] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Stymphalian Bird is 0.01
+[21:52:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:52:30] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [4680, -2452] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@260d7db1
+[21:52:30] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [4683, -2452] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@260d7db1
+[21:52:30] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree2' canceled generation at [4684, -2454] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@260d7db1
+[21:52:30] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree3' in StructureBoundingBox{x0=4687, y0=65, z0=-2444, x1=4691, y1=74, z1=-2440} (0)
+[21:52:31] [Server thread/TRACE] [reccomplex]: Generated structure 'ShrineSmallFire' in StructureBoundingBox{x0=4713, y0=13, z0=-2476, x1=4723, y1=20, z1=-2466} (0)

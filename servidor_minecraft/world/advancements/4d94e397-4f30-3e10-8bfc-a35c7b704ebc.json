@@ -1320,6 +1320,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-13 21:51:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-03 21:29:49 +0000"
