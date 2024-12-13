@@ -30313,3 +30313,22 @@
 [20:18:05] [Server thread/INFO] [Scaling Health]: Blight Zombie has died
 [20:19:34] [Server thread/ERROR] [net.minecraft.entity.projectile.EntityPotion]: ThrownPotion entity 14895 has no item?!
 [20:19:34] [Server thread/ERROR] [net.minecraft.entity.projectile.EntityPotion]: ThrownPotion entity 14897 has no item?!
+[20:21:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:22:26] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:23:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /gamemode c
+[20:23:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set own game mode to Creative Mode]
+[20:24:22] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 16.8 and blood value 0 for entity zawa:reticulatedgiraffe
+[20:24:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /gamemode c
+[20:24:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set own game mode to Creative Mode]
+[20:24:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /gamemode s
+[20:24:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set own game mode to Survival Mode]
+[20:26:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /tp @s 28 69.5 -728
+[20:26:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Teleported DuvanD to 28.5, 69.5, -727.5]
+[20:26:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /gamemode sp
+[20:26:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set own game mode to Spectator Mode]
+[20:26:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /gamemode s
+[20:26:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set own game mode to Survival Mode]
+[20:26:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:28:57] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:31:11] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.03 and blood value 0 for entity iceandfire:icedragon
+[20:31:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
