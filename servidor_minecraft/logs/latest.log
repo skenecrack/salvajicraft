@@ -30346,3 +30346,75 @@
 [20:46:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:47:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Squid is 0.001
 [20:51:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:53:37] [Server thread/INFO] [Scaling Health]: Blight Stray was killed by DuvanD
+[20:53:37] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Stray is 0.01
+[20:53:56] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player DuvanD)
+[20:55:07] [Server thread/INFO] [Scaling Health]: Blight Stray was killed by DuvanD
+[20:55:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Stray is 0.01
+[20:55:19] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player DuvanD)
+[20:56:01] [Server thread/INFO] [Scaling Health]: Blight Spider was killed by DuvanD
+[20:56:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[20:56:25] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[20:56:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:57:36] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:57:40] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:58:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[20:58:37] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:58:50] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player lJuqncl is 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[20:58:50] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:58:50] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:58:50] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:58:50] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:58:50] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[20:58:50] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[20:58:50] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[20:58:50] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[20:58:50] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:58:50] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[20:58:50] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[20:58:52] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:58:52] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[20:58:52] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:58:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:58:52] [Server thread/INFO] []: [+] lJuqncl
+[20:58:52] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:58:52] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['lJuqncl'/41884, uuid='4d94e397-4f30-3e10-8bfc-a35c7b704ebc', l='world', x=412.72, y=63.00, z=-959.30, cx=25, cd=-60, tl=3357000, v=true, d=false](lJuqncl at 412.71769694187515,63.0,-959.3000000119209))
+[20:58:52] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of lJuqncl: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[20:58:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: lJuqncl[/127.229.116.146:36019] logged in with entity id 41884 at ([world]412.71769694187515, 63.0, -959.3000000119209)
+[20:58:56] [Server thread/INFO] [mca]: Villager death: Enola. Caused by: Zombie. UUID: 16ab6a22-fef4-43ed-9383-f0f5519c23d8
+[20:59:05] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Received secret request of lJuqncl (18)
+[20:59:05] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[20:59:05] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[20:59:05] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[20:59:05] [Netty Epoll Server IO #2/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[20:59:09] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[20:59:10] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[20:59:10] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[20:59:10] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[20:59:10] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[20:59:15] [Async Chat Thread - 7/INFO] []: [] DuvanD: oe
+[20:59:22] [Async Chat Thread - 7/INFO] []: [] lJuqncl: que
+[20:59:28] [Async Chat Thread - 7/INFO] []: [] DuvanD: estube mriando lo de la parca
+[20:59:30] [Async Chat Thread - 7/INFO] []: [] DuvanD: y no me sale
+[20:59:32] [Async Chat Thread - 7/INFO] []: [] DuvanD: no se invoca
+[20:59:43] [Async Chat Thread - 7/INFO] []: [] lJuqncl: si se invoca
+[20:59:47] [Async Chat Thread - 7/INFO] []: [] DuvanD: como es o que
+[20:59:50] [Async Chat Thread - 7/INFO] []: [] DuvanD: venga a la base mia
+[20:59:51] [Async Chat Thread - 7/INFO] []: [] lJuqncl: pero tiene que ser de noche
+[20:59:55] [Async Chat Thread - 7/INFO] []: [] DuvanD: ya
+[20:59:58] [Async Chat Thread - 7/INFO] []: [] lJuqncl: no se donde esta su base
+[21:00:02] [Async Chat Thread - 7/INFO] []: [] DuvanD: e intentado varias veces y nada
+[21:00:02] [Async Chat Thread - 7/INFO] []: [] lJuqncl: pase coords
+[21:00:04] [Async Chat Thread - 7/INFO] []: [] DuvanD: la de simepre
+[21:00:07] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Setting group of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=79510250-5bf8-4d3f-a452-5f5d21233949}
+[21:00:10] [Async Chat Thread - 7/INFO] []: [] lJuqncl: grupo
+[21:00:10] [Async Chat Thread - 7/INFO] []: [] DuvanD: la de dnd las tumbas
+[21:00:13] [Netty Epoll Server IO #2/DEBUG] [voicechat]: [voicechat] Setting group of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=79510250-5bf8-4d3f-a452-5f5d21233949}
+[21:00:18] [Async Chat Thread - 7/INFO] []: [] DuvanD: mire
+[21:00:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:01:15] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:01:16] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:01:42] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[21:01:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:01:52] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[21:01:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
