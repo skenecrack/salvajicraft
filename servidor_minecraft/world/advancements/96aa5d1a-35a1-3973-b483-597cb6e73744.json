@@ -418,6 +418,7 @@
       "cold_desert": "2024-12-02 02:45:26 +0000",
       "moor": "2024-12-05 05:00:16 +0000",
       "coniferous_forest": "2024-12-13 01:38:20 +0000",
+      "shield": "2024-12-13 04:06:40 +0000",
       "alps": "2024-12-05 04:53:40 +0000",
       "boreal_forest": "2024-12-03 23:01:12 +0000",
       "snowy_forest": "2024-12-13 04:05:51 +0000",
@@ -754,6 +755,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2024-12-05 03:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-13 04:11:51 +0000"
     },
     "done": true
   },
@@ -1657,6 +1664,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 04:17:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stonebrick": "2024-12-01 01:38:36 +0000"
@@ -2194,6 +2207,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2024-12-12 22:35:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/cyan_dye_from_swampflower": {
+    "criteria": {
+      "has_flower": "2024-12-13 04:08:24 +0000"
     },
     "done": true
   },
