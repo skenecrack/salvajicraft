@@ -30337,3 +30337,12 @@
 [20:37:25] [Async Chat Thread - 6/INFO] []: [] DuvanD: wabangdan
 [20:41:08] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
 [20:41:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:42:11] [Server thread/INFO] [Scaling Health]: Blight Zombie was killed by DuvanD
+[20:42:11] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:43:06] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[20:43:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[20:44:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:44:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:46:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:47:48] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Squid is 0.001
+[20:51:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
