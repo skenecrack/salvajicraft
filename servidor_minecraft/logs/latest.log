@@ -30194,3 +30194,8 @@
 [17:16:26] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of DuvanD to connected: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
 [17:16:26] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player DuvanD (c92e8c31-652c-3fc5-b7b5-ece9aaa045ad) successfully connected to voice chat
 [17:16:26] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of DuvanD: {disabled=false, disconnected=false, uuid=c92e8c31-652c-3fc5-b7b5-ece9aaa045ad, name=DuvanD, group=null}
+[17:18:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:21:52] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[17:22:13] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:echidna
+[17:23:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:26:06] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity zawa:brownrat
