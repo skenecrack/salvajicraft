@@ -30299,3 +30299,59 @@
 [17:35:16] [Async Chat Thread - 6/INFO] []: [] DuvanD: ya tiene
 [17:35:25] [Async Chat Thread - 6/INFO] []: [] DuvanD: no
 [17:35:27] [Async Chat Thread - 6/INFO] []: [] DuvanD: xd
+[17:37:47] [Async Chat Thread - 7/INFO] []: [] DuvanD: no no tala
+[17:38:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:39:00] [Async Chat Thread - 8/INFO] []: [] DuvanD: no
+[17:39:03] [Async Chat Thread - 8/INFO] []: [] DuvanD: encontro desierto?
+[17:39:19] [Async Chat Thread - 8/INFO] []: [] DuvanD: tendra arbustos muerto?
+[17:39:28] [Async Chat Thread - 8/INFO] []: [] DuvanD: pasela
+[17:39:29] [Async Chat Thread - 8/INFO] []: [] DuvanD: ubi
+[17:40:04] [Async Chat Thread - 8/INFO] []: [] DuvanD: ya
+[17:40:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[17:40:09] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [299, -967] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@61a40295
+[17:40:18] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[17:40:19] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [297, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@61a40295
+[17:40:39] [Async Chat Thread - 8/INFO] []: [] DuvanD: jaja
+[17:40:41] [Async Chat Thread - 8/INFO] []: [] DuvanD: revivalo
+[17:40:49] [Async Chat Thread - 8/INFO] []: [] DuvanD: se lo revivo?
+[17:40:54] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [297, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@61a40295
+[17:41:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /toughasnails
+[17:41:08] [Async Chat Thread - 8/INFO] []: [] DuvanD: del minimapa
+[17:41:11] [Async Chat Thread - 8/INFO] []: [] DuvanD: no le deja ver cuevas
+[17:41:14] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [457, -1084] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@61a40295
+[17:41:19] [Async Chat Thread - 8/INFO] []: [] DuvanD: tmb hay uno de no ver entidades
+[17:41:21] [Async Chat Thread - 8/INFO] []: [] DuvanD: o no ver mapa
+[17:41:23] [Async Chat Thread - 8/INFO] []: [] DuvanD: ps si
+[17:41:26] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [297, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@61a40295
+[17:41:49] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[17:41:58] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [434, -1092] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@61a40295
+[17:42:24] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[17:43:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[17:43:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[17:43:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:43:41] [Async Chat Thread - 9/INFO] []: [] DuvanD: lo
+[17:43:54] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[17:44:00] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[17:44:26] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[17:45:32] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.05 and blood value 0 for entity zawa:meerkat
+[17:45:32] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.17 and blood value 0 for entity zawa:frigate
+[17:45:32] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.25 and blood value 0 for entity zawa:greathornedowl
+[17:45:32] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 15.64 and blood value 0 for entity iceandfire:myrmex_queen
+[17:45:32] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 3.3 and blood value 0 for entity iceandfire:myrmex_sentinel
+[17:45:32] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.2 and blood value 0 for entity zawa:greenanaconda
+[17:45:51] [Async Chat Thread - 10/INFO] []: [] DuvanD: qu
+[17:45:54] [Async Chat Thread - 10/INFO] []: [] DuvanD: que
+[17:46:06] [Async Chat Thread - 10/INFO] []: [] DuvanD: aaaa
+[17:46:08] [Async Chat Thread - 10/INFO] []: [] DuvanD: vdad
+[17:46:11] [Async Chat Thread - 10/INFO] []: [] DuvanD: tengoq ue desactivarlos
+[17:46:14] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 16.8 and blood value 0 for entity zawa:reticulatedgiraffe
+[17:46:22] [Server thread/TRACE] [reccomplex]: StonePlantMound failed to spawn at [2960, -1174] (incompatible biome edge)
+[17:46:22] [Async Chat Thread - 10/INFO] []: [] DuvanD: a si
+[17:46:28] [Async Chat Thread - 10/INFO] []: [] DuvanD: en esos salen
+[17:46:30] [Async Chat Thread - 10/INFO] []: [] DuvanD: dsp los quito
+[17:46:31] [Async Chat Thread - 10/INFO] []: [] DuvanD: xd
+[17:46:42] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[17:47:05] [Async Chat Thread - 10/INFO] []: [] DuvanD: esa granja de pipe no sirve
+[17:47:06] [Async Chat Thread - 10/INFO] []: [] DuvanD: xd
+[17:47:17] [Server thread/TRACE] [reccomplex]: MonolythUnholy failed to spawn at [3032, -1451] (incompatible biome edge)
+[17:47:20] [Async Chat Thread - 10/INFO] []: [] DuvanD: no me cae casi nada
