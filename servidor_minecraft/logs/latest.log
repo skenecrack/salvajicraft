@@ -30936,3 +30936,31 @@
 [19:04:01] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [236, -1036] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2789e5b0
 [19:04:07] [Async Chat Thread - 16/INFO] []: [] DuvanD: asi yo no tenga los vampiros y eso
 [19:04:07] [Async Chat Thread - 16/INFO] []: [] lJuqncl: bueno
+[19:04:54] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [297, -968] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2789e5b0
+[19:05:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:05:08] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player lJuqncl)
+[19:06:11] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [297, -970] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2789e5b0
+[19:07:23] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [297, -970] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2789e5b0
+[19:07:27] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [457, -1084] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2789e5b0
+[19:09:54] [Async Chat Thread - 17/INFO] []: [] DuvanD: ala
+[19:10:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:10:23] [Async Chat Thread - 17/INFO] []: [] DuvanD: ta invisible el hp
+[19:10:29] [Async Chat Thread - 17/INFO] []: [] lJuqncl: lo agarro?
+[19:10:32] [Async Chat Thread - 17/INFO] []: [] lJuqncl: e wtf
+[19:10:33] [Async Chat Thread - 17/INFO] []: [] DuvanD: no
+[19:10:44] [Async Chat Thread - 17/INFO] []: [] DuvanD: ud lo ve?
+[19:10:47] [Async Chat Thread - 17/INFO] []: [] lJuqncl: no
+[19:11:33] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:11:34] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:12:20] [Async Chat Thread - 18/INFO] []: [] DuvanD: na ni idea
+[19:12:23] [Async Chat Thread - 18/INFO] []: [] DuvanD: no le e pegado nada
+[19:12:30] [Async Chat Thread - 18/INFO] []: [] lJuqncl: wtf
+[19:12:33] [Async Chat Thread - 18/INFO] []: [] lJuqncl: se murio
+[19:12:54] [Async Chat Thread - 18/INFO] []: [] lJuqncl: man la espadaw
+[19:13:09] [Async Chat Thread - 18/INFO] []: [] lJuqncl: ya
+[19:13:12] [Async Chat Thread - 18/INFO] []: [] lJuqncl: uff
+[19:13:18] [Async Chat Thread - 18/INFO] []: [] DuvanD: ud tiene mi espada
+[19:13:21] [Async Chat Thread - 18/INFO] []: [] DuvanD: no veo ni mierda
+[19:13:47] [Async Chat Thread - 18/INFO] []: [] lJuqncl: digame que ud tiene la mia
+[19:13:51] [Async Chat Thread - 18/INFO] []: [] DuvanD: no
+[19:14:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
