@@ -30380,3 +30380,162 @@
 [02:23:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Teleported Pipelon777 to lJuqncl]
 [02:24:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /tp lJuqncl
 [02:24:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Teleported Pipelon777 to lJuqncl]
+[02:24:23] [Async Chat Thread - 7/INFO] []: [] DuvanD: 7 que
+[02:24:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /tp DuvanD
+[02:24:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Teleported Pipelon777 to DuvanD]
+[02:24:37] [Async Chat Thread - 7/INFO] []: [] DuvanD: ey re mlp
+[02:24:38] [Async Chat Thread - 7/INFO] []: [] DuvanD: xd
+[02:24:42] [Async Chat Thread - 7/INFO] []: [] DuvanD: mi base secreta
+[02:24:56] [Async Chat Thread - 7/INFO] []: [] DuvanD: oe
+[02:24:58] [Async Chat Thread - 7/INFO] []: [] DuvanD: venga
+[02:25:00] [Async Chat Thread - 7/INFO] []: [] DuvanD: mate a ese xzomibe
+[02:25:02] [Async Chat Thread - 7/INFO] []: [] DuvanD: tengo lag
+[02:25:17] [Async Chat Thread - 7/INFO] []: [] DuvanD: mate a ese xzomibe
+[02:25:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Enderman is 0.01
+[02:25:30] [Async Chat Thread - 7/INFO] []: [] DuvanD: y tirele curacion a mis aldeanos
+[02:25:32] [Async Chat Thread - 7/INFO] []: [] DuvanD: pls
+[02:25:39] [Async Chat Thread - 7/INFO] []: [] DuvanD: que no se curan rapido
+[02:25:55] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[02:26:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:26:29] [Async Chat Thread - 7/INFO] []: [] DuvanD: xd
+[02:26:33] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [297, -970] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:26:38] [Async Chat Thread - 7/INFO] []: [] DuvanD: que
+[02:26:40] [Async Chat Thread - 7/INFO] []: [] DuvanD: no pasa nada
+[02:26:50] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [297, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:26:51] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.22 and blood value 0 for entity zawa:macaw
+[02:27:00] [Async Chat Thread - 7/INFO] []: [] DuvanD: no entiendo nada
+[02:27:05] [Async Chat Thread - 7/INFO] []: [] DuvanD: escucho todo entrecortao
+[02:27:15] [Async Chat Thread - 7/INFO] []: [] DuvanD: ayude
+[02:27:41] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[02:27:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /kick Pipelon777
+[02:27:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 lost connection: Kicked by an operator.
+[02:27:57] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of Pipelon777
+[02:27:57] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Pipelon777
+[02:27:57] [Server thread/INFO] []: [-] Pipelon777
+[02:27:57] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4fd74b4c-1953-31ba-aeec-8e2995781d08 does not have a secret
+[02:27:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Kicked Pipelon777 from the game]
+[02:27:57] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4fd74b4c-1953-31ba-aeec-8e2995781d08 does not have a secret
+[02:27:57] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4fd74b4c-1953-31ba-aeec-8e2995781d08 does not have a secret
+[02:27:57] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[02:27:57] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4fd74b4c-1953-31ba-aeec-8e2995781d08 does not have a secret
+[02:27:57] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4fd74b4c-1953-31ba-aeec-8e2995781d08 does not have a secret
+[02:27:57] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4fd74b4c-1953-31ba-aeec-8e2995781d08 does not have a secret
+[02:27:57] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4fd74b4c-1953-31ba-aeec-8e2995781d08 does not have a secret
+[02:27:57] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Player 4fd74b4c-1953-31ba-aeec-8e2995781d08 does not have a secret
+[02:27:59] [Async Chat Thread - 7/INFO] []: [] DuvanD: mlp
+[02:28:06] [Async Chat Thread - 7/INFO] []: [] DuvanD: no
+[02:28:07] [Async Chat Thread - 7/INFO] []: [] DuvanD: lo saque
+[02:28:08] [Async Chat Thread - 7/INFO] []: [] DuvanD: xd
+[02:28:14] [Async Chat Thread - 7/INFO] []: [] DuvanD: quiere copiar mis coordenadas
+[02:28:15] [User Authenticator #7/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Pipelon777 is 4fd74b4c-1953-31ba-aeec-8e2995781d08
+[02:28:15] [Server thread/TRACE] [FML]: Handshake channel activating
+[02:28:15] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[02:28:15] [Server thread/DEBUG] [FML]:   Next: HELLO
+[02:28:15] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:28:16] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:71 mods->FMLHandshakeServerState$2:HELLO
+[02:28:16] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 71 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0,mobends@1.2.1
+[02:28:16] [Netty Epoll Server IO #0/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[02:28:16] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[02:28:16] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[02:28:16] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[02:28:16] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[02:28:17] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[02:28:17] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[02:28:17] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[02:28:17] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:28:17] [Server thread/INFO] []: [+] Pipelon777
+[02:28:17] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[02:28:17] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['Pipelon777'/12133, uuid='4fd74b4c-1953-31ba-aeec-8e2995781d08', l='world', x=1158.45, y=120.00, z=-2066.95, cx=72, cd=-130, tl=377253, v=true, d=false](Pipelon777 at 1158.451184902424,120.0,-2066.945160117018))
+[02:28:17] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of Pipelon777: {disabled=false, disconnected=true, uuid=4fd74b4c-1953-31ba-aeec-8e2995781d08, name=Pipelon777, group=null}
+[02:28:17] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Pipelon777[/127.39.59.244:48961] logged in with entity id 12133 at ([world]1158.451184902424, 120.0, -2066.945160117018)
+[02:28:17] [Async Chat Thread - 7/INFO] []: [] DuvanD: de mibase secreta
+[02:28:19] [Netty Epoll Server IO #0/INFO] [voicechat]: [voicechat] Received secret request of Pipelon777 (18)
+[02:28:19] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Sending initial states to Pipelon777
+[02:28:19] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Synchronizing 1 groups with Pipelon777
+[02:28:19] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with Pipelon777
+[02:28:19] [Netty Epoll Server IO #0/INFO] [voicechat]: [voicechat] Sent secret to Pipelon777
+[02:28:21] [Async Chat Thread - 7/INFO] []: [] DuvanD: pipe
+[02:28:21] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4fd74b4c-1953-31ba-aeec-8e2995781d08
+[02:28:22] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4fd74b4c-1953-31ba-aeec-8e2995781d08
+[02:28:22] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of Pipelon777 to connected: {disabled=false, disconnected=false, uuid=4fd74b4c-1953-31ba-aeec-8e2995781d08, name=Pipelon777, group=null}
+[02:28:22] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Pipelon777 (4fd74b4c-1953-31ba-aeec-8e2995781d08) successfully connected to voice chat
+[02:28:22] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of Pipelon777: {disabled=false, disconnected=false, uuid=4fd74b4c-1953-31ba-aeec-8e2995781d08, name=Pipelon777, group=null}
+[02:28:23] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Setting group of Pipelon777: {disabled=false, disconnected=false, uuid=4fd74b4c-1953-31ba-aeec-8e2995781d08, name=Pipelon777, group=43750a50-1d72-4734-a695-b0368e180723}
+[02:28:25] [Async Chat Thread - 7/INFO] []: [] DuvanD: esta es base secreta
+[02:28:30] [Async Chat Thread - 7/INFO] []: [] DuvanD: no cppie oords
+[02:28:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /effect Pipelon777 xaerominimap:no_minimap
+[02:28:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Given No Minimap (ID 81) * 0 to Pipelon777 for 30 seconds]
+[02:28:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /effect Pipelon777 xaerominimap:no_minimap 999 99
+[02:28:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Given No Minimap (ID 81) * 99 to Pipelon777 for 999 seconds]
+[02:28:53] [Async Chat Thread - 7/INFO] []: [] DuvanD: que me dio
+[02:28:54] [Async Chat Thread - 7/INFO] []: [] DuvanD: a
+[02:29:03] [Async Chat Thread - 7/INFO] []: [] DuvanD: regale casco
+[02:29:04] [Async Chat Thread - 7/INFO] []: [] DuvanD: de diamante
+[02:29:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /effect DuvanD xaerominimap:no_minimap 10 99
+[02:29:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Given No Minimap (ID 81) * 99 to DuvanD for 10 seconds]
+[02:29:46] [Async Chat Thread - 7/INFO] []: [] DuvanD: vea
+[02:29:49] [Async Chat Thread - 7/INFO] []: [] DuvanD: bn vayase mejor
+[02:29:59] [Server thread/TRACE] [reccomplex]: Structure 'LodgepolePine' canceled generation at [454, -1088] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:30:09] [Async Chat Thread - 7/INFO] []: [] DuvanD: nse
+[02:30:11] [Async Chat Thread - 7/INFO] []: [] DuvanD: grandesito
+[02:30:19] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.15 and blood value 0 for entity zawa:tasmaniandevil
+[02:30:22] [Async Chat Thread - 7/INFO] []: [] DuvanD: un poco
+[02:30:28] [Async Chat Thread - 7/INFO] []: [] DuvanD: vea
+[02:30:30] [Async Chat Thread - 7/INFO] []: [] DuvanD: venga
+[02:30:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /tp Pipelon777 DuvanD
+[02:30:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Teleported Pipelon777 to DuvanD]
+[02:30:36] [Async Chat Thread - 7/INFO] []: [] DuvanD: asi de grande
+[02:30:39] [Async Chat Thread - 7/INFO] []: [] DuvanD: como esa zona
+[02:30:42] [Async Chat Thread - 7/INFO] []: [] DuvanD: de radio
+[02:30:45] [Async Chat Thread - 7/INFO] []: [] DuvanD: de esto a esto vea
+[02:30:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /gamemode c
+[02:30:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set own game mode to Creative Mode]
+[02:30:54] [Async Chat Thread - 7/INFO] []: [] DuvanD: de diametro
+[02:30:56] [Async Chat Thread - 7/INFO] []: [] DuvanD: de aca
+[02:31:01] [Async Chat Thread - 7/INFO] []: [] DuvanD: a aca
+[02:31:02] [Async Chat Thread - 7/INFO] []: [] DuvanD: oiga
+[02:31:04] [Async Chat Thread - 7/INFO] []: [] DuvanD: hp
+[02:31:11] [Async Chat Thread - 7/INFO] []: [] DuvanD: oiga
+[02:31:14] [Async Chat Thread - 7/INFO] []: [] DuvanD: de diametro
+[02:31:15] [Async Chat Thread - 7/INFO] []: [] DuvanD: de aca
+[02:31:15] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.03 and blood value 0 for entity iceandfire:icedragon
+[02:31:18] [Async Chat Thread - 7/INFO] []: [] DuvanD: a aaca
+[02:31:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:31:24] [Async Chat Thread - 7/INFO] []: [] DuvanD: si entinede
+[02:31:25] [Async Chat Thread - 7/INFO] []: [] DuvanD: ?
+[02:31:35] [Async Chat Thread - 7/INFO] []: [] DuvanD: o entonces ud como dice
+[02:31:38] [Async Chat Thread - 7/INFO] []: [] DuvanD: de diametro
+[02:31:43] [Async Chat Thread - 7/INFO] []: [] DuvanD: n o
+[02:31:45] [Async Chat Thread - 7/INFO] []: [] DuvanD: no
+[02:31:47] [Async Chat Thread - 7/INFO] []: [] DuvanD: o entonces
+[02:31:50] [Async Chat Thread - 7/INFO] []: [] DuvanD: el doble de eso
+[02:31:52] [Async Chat Thread - 7/INFO] []: [] DuvanD: tipo
+[02:32:04] [Async Chat Thread - 7/INFO] []: [] DuvanD: de diametro de 20 a 25 bloques
+[02:32:06] [Async Chat Thread - 7/INFO] []: [] DuvanD: haga caso
+[02:32:13] [Async Chat Thread - 7/INFO] []: [] DuvanD: se
+[02:32:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /gamemode c lJuqncl
+[02:32:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set lJuqncl's game mode to Creative Mode]
+[02:32:24] [Async Chat Thread - 7/INFO] []: [] DuvanD: verga
+[02:32:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /gamemode s lJuqncl
+[02:32:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set lJuqncl's game mode to Survival Mode]
+[02:32:30] [Async Chat Thread - 7/INFO] []: [] DuvanD: si xd
+[02:32:35] [Async Chat Thread - 7/INFO] []: [] DuvanD: nada ya le quite
+[02:32:46] [Server thread/INFO] []: Unknown command. Type "/help" for help.
+[02:32:57] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [296, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:32:58] [Async Chat Thread - 7/INFO] []: [] DuvanD: jaja
+[02:32:59] [Async Chat Thread - 7/INFO] []: [] DuvanD: siv e
+[02:33:01] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [297, -970] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:33:03] [Async Chat Thread - 7/INFO] []: [] DuvanD: ta dificil hacer tinta
+[02:33:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: '0gamemode' is not a valid number
+[02:33:05] [Async Chat Thread - 7/INFO] []: [] DuvanD: de impresora
+[02:33:11] [Async Chat Thread - 7/INFO] []: [] DuvanD: no es ilegal
+[02:33:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set DuvanD's game mode to Survival Mode
+[02:33:15] [Async Chat Thread - 7/INFO] []: [] DuvanD: esta balanceado
+[02:33:20] [Async Chat Thread - 7/INFO] []: [] DuvanD: aa
+[02:33:23] [Async Chat Thread - 7/INFO] []: [] DuvanD: ayude
+[02:33:47] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.17 and blood value 0 for entity zawa:frigate
+[02:33:58] [Async Chat Thread - 7/INFO] []: [] DuvanD: que cosa
+[02:34:09] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [296, -971] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:34:11] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[02:34:19] [Async Chat Thread - 7/INFO] []: [] DuvanD: regale cosas
+[02:34:37] [Async Chat Thread - 7/INFO] []: [] DuvanD: con pollos
