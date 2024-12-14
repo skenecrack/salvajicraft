@@ -30790,3 +30790,149 @@
 [18:54:12] [Async Chat Thread - 14/INFO] []: [] DuvanD: calmate
 [18:54:15] [Async Chat Thread - 14/INFO] []: [] DuvanD: xd
 [18:54:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DuvanD has reached the goal [Enchanted for Misadventure]
+[18:54:19] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc timed out
+[18:54:19] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player lJuqncl
+[18:54:19] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[18:54:19] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[18:54:19] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[18:54:19] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[18:54:19] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of 4d94e397-4f30-3e10-8bfc-a35c7b704ebc to disconnected: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[18:54:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lJuqncl lost connection: Timed out
+[18:54:37] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of lJuqncl
+[18:54:37] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lJuqncl
+[18:54:37] [Server thread/INFO] []: [-] lJuqncl
+[18:54:37] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[18:55:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /gamemode c
+[18:55:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set own game mode to Creative Mode]
+[18:55:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:55:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /gamemode s
+[18:55:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set own game mode to Survival Mode]
+[18:55:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /summon vampire
+[18:55:35] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:vampire
+[18:55:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Unable to summon object]
+[18:55:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /summon vampirism:vampire
+[18:55:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Object successfully summoned]
+[18:56:08] [User Authenticator #8/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player lJuqncl is 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[18:56:09] [Server thread/TRACE] [FML]: Handshake channel activating
+[18:56:09] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[18:56:09] [Server thread/DEBUG] [FML]:   Next: HELLO
+[18:56:09] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[18:56:09] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[18:56:09] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[18:56:09] [Netty Epoll Server IO #3/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[18:56:09] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[18:56:09] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[18:56:09] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[18:56:09] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[18:56:12] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[18:56:12] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[18:56:12] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[18:56:13] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:56:13] [Server thread/INFO] []: [+] lJuqncl
+[18:56:13] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['lJuqncl'/49791, uuid='4d94e397-4f30-3e10-8bfc-a35c7b704ebc', l='world', x=302.91, y=46.00, z=-1097.52, cx=18, cd=-69, tl=3698804, v=true, d=false](lJuqncl at 302.90542366300986,46.0,-1097.5214042987677))
+[18:56:13] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of lJuqncl: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[18:56:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: lJuqncl[/127.185.101.38:36135] logged in with entity id 49791 at ([world]302.90542366300986, 46.0, -1097.5214042987677)
+[18:56:16] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Vampire is 0.001
+[18:56:16] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[18:56:27] [Async Chat Thread - 15/INFO] []: [] DuvanD: hagamos esto
+[18:56:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lJuqncl lost connection: Timed out
+[18:56:28] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of lJuqncl
+[18:56:28] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lJuqncl
+[18:56:28] [Server thread/INFO] []: [-] lJuqncl
+[18:56:28] [Server thread/WARN] [Mohist]: handle Disconnection() called twice
+[18:56:30] [Async Chat Thread - 15/INFO] []: [] DuvanD: cuando entre pipe
+[18:57:48] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.25 and blood value 0 for entity zawa:greathornedowl
+[19:00:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:00:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /time set night
+[19:00:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set the time to 13000]
+[19:00:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /time set 106
+[19:00:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set the time to 106]
+[19:00:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /time set day 106
+[19:00:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set the time to 1000]
+[19:00:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /time set day 10000000
+[19:00:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set the time to 1000]
+[19:00:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /time set 2400000
+[19:00:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set the time to 2400000]
+[19:00:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /time set 3000000
+[19:00:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set the time to 3000000]
+[19:01:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /time set 2700000
+[19:01:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set the time to 2700000]
+[19:01:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /time set 26900000
+[19:01:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set the time to 26900000]
+[19:01:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /time set 269000
+[19:01:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set the time to 269000]
+[19:01:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /time set 2690000
+[19:01:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set the time to 2690000]
+[19:01:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /time set 2590000
+[19:01:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Set the time to 2590000]
+[19:02:16] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[19:02:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[19:02:28] [User Authenticator #9/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player lJuqncl is 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[19:02:28] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:02:28] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:02:28] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:02:28] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:02:28] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[19:02:28] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[19:02:28] [Netty Epoll Server IO #2/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[19:02:28] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[19:02:28] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:02:28] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[19:02:28] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[19:02:31] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:02:31] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[19:02:31] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:02:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:02:31] [Server thread/INFO] []: [+] lJuqncl
+[19:02:31] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:02:31] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['lJuqncl'/54732, uuid='4d94e397-4f30-3e10-8bfc-a35c7b704ebc', l='world', x=302.91, y=46.00, z=-1097.52, cx=18, cd=-69, tl=3699111, v=true, d=false](lJuqncl at 302.90542366300986,46.0,-1097.5214042987677))
+[19:02:31] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of lJuqncl: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[19:02:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: lJuqncl[/127.185.101.38:46283] logged in with entity id 54732 at ([world]302.90542366300986, 46.0, -1097.5214042987677)
+[19:02:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lJuqncl lost connection: Disconnected
+[19:02:35] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of lJuqncl
+[19:02:35] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lJuqncl
+[19:02:35] [Server thread/INFO] []: [-] lJuqncl
+[19:02:52] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[19:02:59] [User Authenticator #10/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player lJuqncl is 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[19:02:59] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:02:59] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:02:59] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:02:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:02:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[19:02:59] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[19:02:59] [Netty Epoll Server IO #0/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[19:02:59] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[19:02:59] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:02:59] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[19:02:59] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[19:03:01] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:03:01] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[19:03:01] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:03:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:03:01] [Server thread/INFO] []: [+] lJuqncl
+[19:03:01] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:03:01] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['lJuqncl'/55138, uuid='4d94e397-4f30-3e10-8bfc-a35c7b704ebc', l='world', x=302.91, y=46.00, z=-1097.52, cx=18, cd=-69, tl=3699188, v=true, d=false](lJuqncl at 302.90542366300986,46.0,-1097.5214042987677))
+[19:03:01] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of lJuqncl: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[19:03:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: lJuqncl[/127.229.116.146:38559] logged in with entity id 55138 at ([world]302.90542366300986, 46.0, -1097.5214042987677)
+[19:03:15] [Netty Epoll Server IO #0/INFO] [voicechat]: [voicechat] Received secret request of lJuqncl (18)
+[19:03:15] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[19:03:15] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Synchronizing 0 groups with lJuqncl
+[19:03:15] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[19:03:15] [Netty Epoll Server IO #0/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[19:03:16] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[19:03:17] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[19:03:17] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[19:03:17] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[19:03:17] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[19:03:26] [Async Chat Thread - 16/INFO] []: [] lJuqncl: cuantos le faltan'
+[19:03:29] [Async Chat Thread - 16/INFO] []: [] DuvanD: 14
+[19:03:43] [Async Chat Thread - 16/INFO] []: [] DuvanD: igual toca esperar a pipe
+[19:03:45] [Async Chat Thread - 16/INFO] []: [] DuvanD: cuando entre
+[19:03:47] [Async Chat Thread - 16/INFO] []: [] DuvanD: mejor
+[19:03:50] [Async Chat Thread - 16/INFO] []: [] lJuqncl: porque
+[19:03:50] [Async Chat Thread - 16/INFO] []: [] DuvanD: hagale
+[19:03:53] [Async Chat Thread - 16/INFO] []: [] DuvanD: pere
+[19:04:01] [Async Chat Thread - 16/INFO] []: [] DuvanD: vea , le activo eso cuando pipe entre
+[19:04:01] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree2' canceled generation at [236, -1036] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2789e5b0
+[19:04:07] [Async Chat Thread - 16/INFO] []: [] DuvanD: asi yo no tenga los vampiros y eso
+[19:04:07] [Async Chat Thread - 16/INFO] []: [] lJuqncl: bueno
