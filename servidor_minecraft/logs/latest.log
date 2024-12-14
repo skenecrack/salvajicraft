@@ -31045,3 +31045,68 @@ java.util.ConcurrentModificationException: null
 [03:15:04] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of lJuqncl
 [03:15:04] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lJuqncl
 [03:15:04] [Server thread/INFO] []: [-] lJuqncl
+[03:15:59] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [299, -970] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[03:16:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:17:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /gamemode 3
+[03:17:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Set own game mode to Spectator Mode]
+[03:17:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /gamemode 1
+[03:17:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Set own game mode to Creative Mode]
+[03:18:22] [Server thread/INFO] [Scaling Health]: Blight Skeleton has died
+[03:18:28] [User Authenticator #8/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player lJuqncl is 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[03:18:28] [Server thread/TRACE] [FML]: Handshake channel activating
+[03:18:28] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[03:18:28] [Server thread/DEBUG] [FML]:   Next: HELLO
+[03:18:28] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[03:18:28] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:70 mods->FMLHandshakeServerState$2:HELLO
+[03:18:28] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.1+alpha.1,treechop@0.14.6,mowziesmobs@1.5.8,extendedrenderer@v1.0,netherportalfix@5.3.17,trashslot@8.4.10,customnpcitems@1.0.0,vampirism_integrations@vampirism_integrations,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,configmod@v1.0,jei@4.26.2,custommainmenu@2.0.9.1,radixcore@1.12.x-2.2.1,ivtoolkit@1.3.3-1.12,neat@1.4-17,waystones@4.1.0,mcp@9.42,clumps@3.1.2,travelersbackpack@1.0.35,badmobs@1.1.40,mutantbeasts@1.12.2-1.0.2,llibrary@1.7.20,iceandfire@1.9.1,tlauncher_custom_cape_skin@1.4,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2860,malisisdoors@1.12.2-7.3.0,konkrete@1.6.1,chococraft@3.1.415.0,infernalmobs@1.7.6,minecraft@1.12.2,stonemask@1.0.0,malisiscore@1.12.2-6.5.1-SNAPSHOT,voicechat@1.12.2-2.5.26,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0.2,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,reccomplex@1.4.8.6,rustic@1.1.7,fairylights@2.1.10,howlingmoon@0.9,spartanshields@1.5.5,xaerominimap@24.6.1,collective@3.0,fastbench@1.7.4,securitycraft@v1.9.11,libraryex@1.2.2,toughasnails@3.1.0.141,FML@8.0.99.99,tombstone@4.7.3,customnpcs@1.12,coroutil@1.12.1-1.2.37,srparasites@1.8.2,cfm@6.5.0,aiimprovements@0.0.1.3,connectedglass@1.1.4,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,bookworm@1.12.2-2.5.2.1,msic@1.0,codechickenlib@3.2.3.358,scalinghealth@1.3.37,soundfilters@0.12.1_for_1.12,netherex@2.2.5,playerrevive@1.0
+[03:18:28] [Netty Epoll Server IO #1/INFO] [FML]: Forge Mod Loader has successfully loaded [mohist] modCLIENT
+[03:18:28] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[03:18:29] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[03:18:29] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[03:18:29] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[03:18:30] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[03:18:30] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[03:18:30] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[03:18:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:18:30] [Server thread/INFO] []: [+] lJuqncl
+[03:18:30] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[03:18:31] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['lJuqncl'/60190, uuid='4d94e397-4f30-3e10-8bfc-a35c7b704ebc', l='world', x=392.99, y=63.00, z=-955.58, cx=24, cd=-60, tl=3492727, v=true, d=false](lJuqncl at 392.9864848583872,63.0,-955.5846500174177))
+[03:18:31] [Server thread/DEBUG] [voicechat]: [voicechat] Setting default state of lJuqncl: {disabled=false, disconnected=true, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[03:18:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: lJuqncl[/127.229.116.146:49375] logged in with entity id 60190 at ([world]392.9864848583872, 63.0, -955.5846500174177)
+[03:18:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /gamemode 3
+[03:18:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Set own game mode to Spectator Mode]
+[03:18:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /gamemode 1
+[03:18:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Set own game mode to Creative Mode]
+[03:18:42] [Netty Epoll Server IO #1/INFO] [voicechat]: [voicechat] Received secret request of lJuqncl (18)
+[03:18:42] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Sending initial states to lJuqncl
+[03:18:42] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Synchronizing 1 groups with lJuqncl
+[03:18:42] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Synchronizing 0 volume categories with lJuqncl
+[03:18:42] [Netty Epoll Server IO #1/INFO] [voicechat]: [voicechat] Sent secret to lJuqncl
+[03:18:46] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[03:18:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 4d94e397-4f30-3e10-8bfc-a35c7b704ebc
+[03:18:47] [VoiceChatPacketProcessingThread/DEBUG] [voicechat]: [voicechat] Set state of lJuqncl to connected: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[03:18:47] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player lJuqncl (4d94e397-4f30-3e10-8bfc-a35c7b704ebc) successfully connected to voice chat
+[03:18:47] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=null}
+[03:18:55] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Setting group of lJuqncl: {disabled=false, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=43750a50-1d72-4734-a695-b0368e180723}
+[03:21:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /tp lJuqncl
+[03:21:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Teleported Pipelon777 to lJuqncl]
+[03:22:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /gamemode 3
+[03:22:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Set own game mode to Spectator Mode]
+[03:22:18] [Netty Epoll Server IO #1/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=true, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=43750a50-1d72-4734-a695-b0368e180723}
+[03:22:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lJuqncl lost connection: Disconnected
+[03:22:19] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of lJuqncl
+[03:22:19] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lJuqncl
+[03:22:19] [Server thread/INFO] []: [-] lJuqncl
+[03:22:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /gamemode 1
+[03:22:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Set own game mode to Creative Mode]
+[03:22:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /gamemode 3
+[03:22:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Set own game mode to Spectator Mode]
+[03:23:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /gamemode 1
+[03:23:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Set own game mode to Creative Mode]
+[03:23:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:23:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /gamemode 3
+[03:23:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Set own game mode to Spectator Mode]
+[03:23:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /gamemode 1
+[03:23:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Set own game mode to Creative Mode]
+[03:24:03] [Thread-3/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:24:04] [Thread-3/INFO] [Mohist]: Disabling PowerRanks v1.9.6
