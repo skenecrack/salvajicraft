@@ -13,6 +13,10 @@
             "Faction": 1
         },
         {
+            "Points": 0,
+            "Faction": 2
+        },
+        {
             "Points": 1000,
             "Faction": 3
         },
@@ -30,11 +34,11 @@
         ],
         "ActiveQuests": [
             {
-                "QuestCompleted": 0b,
+                "QuestCompleted": 1b,
                 "ExtraData": {
                     "Killed": [
                         {
-                            "Value": 45,
+                            "Value": 50,
                             "Slot": "vampirism.vampire"
                         }
                     ]
@@ -59,6 +63,9 @@
         },
         {
             "Dialog": 11
+        },
+        {
+            "Dialog": 13
         },
         {
             "Dialog": 14
