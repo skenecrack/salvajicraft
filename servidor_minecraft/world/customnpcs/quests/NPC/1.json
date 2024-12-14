@@ -3,7 +3,7 @@
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
-    "QuestCompletion": 0,
+    "QuestCompletion": 1,
     "Title": "vampire",
     "Text": "Acaba con 50 vampiros",
     "QuestFactionPoints": {
@@ -18,7 +18,7 @@
     "QuestCommand": "",
     "QuestDialogs": [
         {
-            "Value": 50,
+            "Value": 15,
             "Slot": "vampirism.vampire"
         }
     ],
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1734200551432L,
+        "TimePast": 1734200915159L,
         "Time": 0L,
         "Subject": ""
     },
