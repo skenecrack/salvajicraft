@@ -30815,3 +30815,207 @@ java.util.ConcurrentModificationException: null
 [02:44:18] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree3' in StructureBoundingBox{x0=5089, y0=67, z0=-2111, x1=5093, y1=76, z1=-2107} (0)
 [02:44:54] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Vampire is 0.001
 [02:44:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Marchioness Spade is 0.001
+[02:45:10] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Vampire is 0.001
+[02:45:14] [Async Chat Thread - 11/INFO] []: [] DuvanD: voy
+[02:45:23] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=5132, y0=79, z0=-1870, x1=5137, y1=94, z1=-1864} (0)
+[02:45:23] [Server thread/TRACE] [reccomplex]: Generated structure 'QuakingAspen' in StructureBoundingBox{x0=5139, y0=78, z0=-1869, x1=5145, y1=98, z1=-1863} (0)
+[02:45:23] [Server thread/TRACE] [reccomplex]: Generated structure 'FirTree' in StructureBoundingBox{x0=5140, y0=78, z0=-1861, x1=5146, y1=92, z1=-1854} (0)
+[02:45:23] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [5135, -1835] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:23] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [5142, -1841] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:23] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [5133, -1834] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:23] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree' in StructureBoundingBox{x0=5136, y0=77, z0=-1849, x1=5143, y1=91, z1=-1842} (0)
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [5138, -1846] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [5133, -1841] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'FirTreeBig' canceled generation at [5143, -1834] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [5140, -1844] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [5131, -1838] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree' in StructureBoundingBox{x0=5134, y0=76, z0=-1843, x1=5141, y1=90, z1=-1836} (0)
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'WhiteWillowLarge' canceled generation at [5134, -1817] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTreeBig1' in StructureBoundingBox{x0=5126, y0=73, z0=-1822, x1=5135, y1=94, z1=-1812} (0)
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [5136, -1830] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'WhiteWillowLarge' canceled generation at [5142, -1832] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [5141, -1818] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'WhiteWillowLarge' canceled generation at [5132, -1820] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [5137, -1818] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [5141, -2010] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree1' canceled generation at [5140, -2018] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree2' canceled generation at [5138, -2019] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree2' canceled generation at [5139, -2023] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [5142, -2011] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Generated structure 'AlascaCedar' in StructureBoundingBox{x0=5139, y0=69, z0=-2022, x1=5147, y1=91, z1=-2014} (0)
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [5137, -2013] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree3' in StructureBoundingBox{x0=5126, y0=80, z0=-2016, x1=5130, y1=89, z1=-2012} (0)
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [5128, -2022] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [5137, -2011] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [5129, -2023] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [5136, -2023] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [5138, -2009] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree3' canceled generation at [5139, -2012] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [5131, -2013] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Generated structure 'LodgepolePine' in StructureBoundingBox{x0=5131, y0=70, z0=-2028, x1=5141, y1=92, z1=-2018} (0)
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree2' canceled generation at [5138, -2013] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree3' canceled generation at [5134, -2014] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [5134, -2012] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [5129, -2010] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [5135, -2010] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [5138, -2020] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree3' canceled generation at [5140, -2012] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [5136, -2020] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree1' canceled generation at [5136, -2023] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [5131, -2024] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [5137, -2021] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [5130, -2011] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [5129, -2018] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [5133, -2014] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [5135, -2019] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Generated structure 'FirTreeBig' in StructureBoundingBox{x0=5130, y0=69, z0=-2041, x1=5143, y1=95, z1=-2029} (0)
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree1' canceled generation at [5135, -2038] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Generated structure 'LodgepolePine' in StructureBoundingBox{x0=5125, y0=71, z0=-2038, x1=5135, y1=93, z1=-2028} (0)
+[02:45:24] [Server thread/TRACE] [reccomplex]: Generated structure 'AlascaCedar' in StructureBoundingBox{x0=5124, y0=71, z0=-2041, x1=5132, y1=93, z1=-2033} (0)
+[02:45:24] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree3' in StructureBoundingBox{x0=5136, y0=68, z0=-2034, x1=5140, y1=77, z1=-2030} (0)
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [5139, -2031] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'LodgepolePine' canceled generation at [5128, -2036] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Generated structure 'FirTree' in StructureBoundingBox{x0=5139, y0=68, z0=-2036, x1=5145, y1=82, z1=-2029} (0)
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree2' canceled generation at [5137, -2043] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Generated structure 'LodgepolePine' in StructureBoundingBox{x0=5134, y0=70, z0=-2051, x1=5144, y1=92, z1=-2041} (0)
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'FirTreeBig' canceled generation at [5142, -2050] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTreeBig' in StructureBoundingBox{x0=5138, y0=70, z0=-2057, x1=5148, y1=99, z1=-2047} (0)
+[02:45:24] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTreeBig' in StructureBoundingBox{x0=5129, y0=70, z0=-2059, x1=5139, y1=99, z1=-2049} (0)
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [5135, -2044] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTreeBig' in StructureBoundingBox{x0=5127, y0=71, z0=-2048, x1=5137, y1=100, z1=-2038} (0)
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [5136, -2054] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'AlascaCedar' canceled generation at [5136, -2056] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree3' in StructureBoundingBox{x0=5133, y0=70, z0=-2053, x1=5137, y1=79, z1=-2049} (0)
+[02:45:24] [Server thread/TRACE] [reccomplex]: Generated structure 'LodgepolePine' in StructureBoundingBox{x0=5135, y0=70, z0=-2068, x1=5145, y1=92, z1=-2058} (0)
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [5134, -2064] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree3' in StructureBoundingBox{x0=5139, y0=70, z0=-2069, x1=5143, y1=79, z1=-2065} (0)
+[02:45:24] [Server thread/TRACE] [reccomplex]: Structure 'LodgepolePine' canceled generation at [5142, -2068] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:24] [Server thread/TRACE] [reccomplex]: Generated structure 'FirTree' in StructureBoundingBox{x0=5133, y0=70, z0=-2063, x1=5140, y1=84, z1=-2057} (0)
+[02:45:27] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree1' canceled generation at [5129, -2083] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:27] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree' in StructureBoundingBox{x0=5138, y0=69, z0=-2080, x1=5142, y1=81, z1=-2076} (0)
+[02:45:27] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree2' in StructureBoundingBox{x0=5139, y0=70, z0=-2090, x1=5145, y1=83, z1=-2086} (0)
+[02:45:27] [Server thread/TRACE] [reccomplex]: Generated structure 'AlascaCedar' in StructureBoundingBox{x0=5134, y0=69, z0=-2086, x1=5142, y1=91, z1=-2078} (0)
+[02:45:27] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [5135, -2080] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:27] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree3' in StructureBoundingBox{x0=5132, y0=69, z0=-2088, x1=5136, y1=78, z1=-2084} (0)
+[02:45:27] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTreeBig' canceled generation at [5133, -2074] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:27] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree2' canceled generation at [5131, -2074] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:27] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree' in StructureBoundingBox{x0=5126, y0=68, z0=-2085, x1=5130, y1=80, z1=-2081} (0)
+[02:45:27] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [5008, -1738] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:27] [Server thread/TRACE] [reccomplex]: Structure 'WhiteWillowLarge' canceled generation at [5002, -1748] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:27] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [5009, -1748] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:27] [Server thread/TRACE] [reccomplex]: Structure 'WhiteWillowLarge' canceled generation at [5008, -1749] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:27] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [5005, -1751] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:27] [Server thread/TRACE] [reccomplex]: Generated structure 'QuakingAspen' in StructureBoundingBox{x0=5009, y0=79, z0=-1740, x1=5015, y1=99, z1=-1734} (0)
+[02:45:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /tp Pipelon777
+[02:45:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: Teleported DuvanD to Pipelon777]
+[02:45:29] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [5023, -1732] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:29] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree' in StructureBoundingBox{x0=5027, y0=73, z0=-1734, x1=5034, y1=87, z1=-1727} (0)
+[02:45:29] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [5018, -1734] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:29] [Server thread/TRACE] [reccomplex]: Generated structure 'FirTree' in StructureBoundingBox{x0=5020, y0=72, z0=-1732, x1=5026, y1=86, z1=-1725} (0)
+[02:45:31] [Server thread/TRACE] [reccomplex]: Structure 'WhiteWillowLarge' canceled generation at [5001, -1730] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree' canceled generation at [5009, -1733] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:31] [Server thread/TRACE] [reccomplex]: Structure 'FirTreeBig' canceled generation at [5006, -1723] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:31] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [5015, -1734] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:31] [Server thread/TRACE] [reccomplex]: Generated structure 'QuakingAspen' in StructureBoundingBox{x0=5003, y0=80, z0=-1729, x1=5009, y1=100, z1=-1723} (0)
+[02:45:31] [Server thread/TRACE] [reccomplex]: Structure 'QuakingAspen' canceled generation at [5013, -1735] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:31] [Server thread/TRACE] [reccomplex]: Structure 'WhiteWillowLarge' canceled generation at [5009, -1727] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:31] [Server thread/TRACE] [reccomplex]: Structure 'FirTreeBig' canceled generation at [5011, -1726] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:31] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [5011, -1731] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:31] [Server thread/TRACE] [reccomplex]: Generated structure 'QuakingAspen' in StructureBoundingBox{x0=5011, y0=73, z0=-1731, x1=5017, y1=93, z1=-1725} (0)
+[02:45:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig' canceled generation at [4996, -1729] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:31] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [4984, -1725] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:31] [Server thread/TRACE] [reccomplex]: Structure 'FirTree' canceled generation at [4992, -1734] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:31] [Server thread/TRACE] [reccomplex]: Generated structure 'QuakingAspen' in StructureBoundingBox{x0=4986, y0=86, z0=-1730, x1=4992, y1=106, z1=-1724} (0)
+[02:45:31] [Server thread/TRACE] [reccomplex]: Structure 'BirchTreeBig1' canceled generation at [4986, -1728] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:31] [Server thread/TRACE] [reccomplex]: Structure 'WhiteWillowLarge' canceled generation at [4989, -1733] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:31] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=4988, y0=85, z0=-1725, x1=4993, y1=100, z1=-1719} (0)
+[02:45:31] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=5043, y0=80, z0=-1724, x1=5048, y1=95, z1=-1718} (0)
+[02:45:31] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=5029, y0=71, z0=-1725, x1=5034, y1=86, z1=-1719} (0)
+[02:45:32] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=5013, y0=66, z0=-1716, x1=5018, y1=81, z1=-1710} (0)
+[02:45:33] [Server thread/TRACE] [reccomplex]: Structure 'WhiteWillowLarge' canceled generation at [5072, -1718] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:45:33] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=5063, y0=83, z0=-1714, x1=5068, y1=98, z1=-1708} (0)
+[02:45:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: lJuqncl has made the advancement [Duplicated]
+[02:45:47] [Async Chat Thread - 11/INFO] []: [] DuvanD: eyeyeyeye
+[02:45:49] [Async Chat Thread - 11/INFO] []: [] DuvanD: cual copio
+[02:45:53] [Async Chat Thread - 11/INFO] []: [] DuvanD: cual
+[02:45:55] [Async Chat Thread - 11/INFO] []: [] DuvanD: diga
+[02:45:55] [Async Chat Thread - 11/INFO] []: [] DuvanD: xd
+[02:45:58] [Async Chat Thread - 11/INFO] []: [] DuvanD: eso iva a hacer
+[02:45:59] [Async Chat Thread - 11/INFO] []: [] DuvanD: xd
+[02:46:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:46:59] [Async Chat Thread - 12/INFO] []: [] DuvanD: oe deje asi
+[02:47:05] [Async Chat Thread - 12/INFO] []: [] DuvanD: empuje esto mas hacia alla
+[02:47:20] [Async Chat Thread - 12/INFO] []: [] DuvanD: ahi no mas
+[02:47:28] [Async Chat Thread - 12/INFO] []: [] DuvanD: deje asi
+[02:47:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /fill 6653 61 -7406
+[02:47:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /fill 6653 61 -7406 6675 61 -7398 air
+[02:47:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: 140 blocks filled]
+[02:48:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /fill 6653 61 -7406 6675 59 -7398 air
+[02:48:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: 338 blocks filled]
+[02:48:07] [Async Chat Thread - 12/INFO] []: [] DuvanD: jajaja
+[02:48:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /fill 6653 61 -7406 6675 59 -7398 air
+[02:48:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: 142 blocks filled]
+[02:48:25] [Async Chat Thread - 12/INFO] []: [] DuvanD: yo el diej que profundo
+[02:48:26] [Async Chat Thread - 12/INFO] []: [] DuvanD: pero bueno
+[02:49:13] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.25 and blood value 0 for entity zawa:greathornedowl
+[02:49:35] [Async Chat Thread - 13/INFO] []: [] DuvanD: pere
+[02:49:38] [Async Chat Thread - 13/INFO] []: [] DuvanD: mmgvo
+[02:49:41] [Async Chat Thread - 13/INFO] []: [] DuvanD: era una cupula
+[02:49:47] [Async Chat Thread - 13/INFO] []: [] DuvanD: como lo va a hacer tan arriba
+[02:49:58] [Async Chat Thread - 13/INFO] []: [] DuvanD: no
+[02:50:03] [Async Chat Thread - 13/INFO] []: [] DuvanD: vea
+[02:50:07] [Async Chat Thread - 13/INFO] []: [] DuvanD: hasta aca
+[02:50:08] [Async Chat Thread - 13/INFO] []: [] DuvanD: vea
+[02:50:13] [Async Chat Thread - 13/INFO] []: [] DuvanD: 3 hacia arriba
+[02:50:17] [Async Chat Thread - 13/INFO] []: [] DuvanD: rompa
+[02:50:21] [Async Chat Thread - 13/INFO] []: [] DuvanD: tipo vea
+[02:50:22] [Async Chat Thread - 13/INFO] []: [] DuvanD: del centro
+[02:50:31] [Server thread/TRACE] [reccomplex]: Structure 'SpruceTree' canceled generation at [434, -1092] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:50:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /fill 6653 61 -7406 6675 59 -7398 air
+[02:50:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: 21 blocks filled]
+[02:50:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /fill 6653 61 -7406 6675 59 -7398 air
+[02:50:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: 2 blocks filled]
+[02:50:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /fill 6653 61 -7406 6675 59 -7398 air
+[02:50:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: 3 blocks filled]
+[02:50:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /fill 6653 61 -7406 6675 59 -7398 air
+[02:50:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: 1 blocks filled]
+[02:50:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /fill 6653 61 -7406 6675 59 -7398 airt
+[02:50:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: There is no such block with name minecraft:airt]
+[02:50:44] [Async Chat Thread - 13/INFO] []: [] DuvanD: si
+[02:50:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD issued server command: /fill 6653 61 -7406 6675 59 -7398 air
+[02:50:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [DuvanD: 3 blocks filled]
+[02:50:51] [Async Chat Thread - 13/INFO] []: [] DuvanD: pero tipo
+[02:50:52] [Async Chat Thread - 13/INFO] []: [] DuvanD: ok
+[02:51:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:51:49] [Async Chat Thread - 13/INFO] []: [] DuvanD: que hace
+[02:51:49] [Server thread/TRACE] [reccomplex]: Structure 'OakTree' canceled generation at [296, -970] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[02:54:39] [Async Chat Thread - 14/INFO] []: [] DuvanD: yo hago la circunferencia
+[02:54:39] [Async Chat Thread - 14/INFO] []: [] DuvanD: osea
+[02:54:53] [Async Chat Thread - 14/INFO] []: [] DuvanD: siga el borde
+[02:54:54] [Async Chat Thread - 14/INFO] []: [] DuvanD: e la pared
+[02:56:17] [Async Chat Thread - 15/INFO] []: [] DuvanD: me sirve
+[02:56:23] [Async Chat Thread - 15/INFO] []: [] DuvanD: por construir la mision
+[02:56:27] [Async Chat Thread - 15/INFO] []: [] DuvanD: me voy a coger 2 arbustos muertos
+[02:56:28] [Async Chat Thread - 15/INFO] []: [] DuvanD: ok
+[02:56:29] [Async Chat Thread - 15/INFO] []: [] DuvanD: ?
+[02:56:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:58:10] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Squid is 0.001
+[02:58:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Squid is 0.001
+[02:58:31] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Squid is 0.001
+[02:58:58] [Server thread/INFO] [mca]: Villager death: Keiko. Caused by: Zombie. UUID: 09296f7c-717f-4098-90c8-cca50420f598
+[02:59:22] [Async Chat Thread - 16/INFO] []: [] DuvanD: los hacks
+[03:01:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:01:47] [Server thread/INFO] [Scaling Health]: Blight Zombie was killed by lJuqncl
+[03:01:47] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[03:02:07] [Async Chat Thread - 17/INFO] []: [] DuvanD: si
+[03:02:08] [Async Chat Thread - 17/INFO] []: [] DuvanD: a mi
+[03:02:30] [Async Chat Thread - 17/INFO] []: [] DuvanD: pa que no juega
+[03:03:46] [Async Chat Thread - 18/INFO] []: [] DuvanD: man
+[03:03:48] [Async Chat Thread - 18/INFO] []: [] DuvanD: me tego que ir
+[03:03:49] [Async Chat Thread - 18/INFO] []: [] DuvanD: xd
+[03:03:58] [Async Chat Thread - 18/INFO] []: [] DuvanD: ud cambia aca las cosa
+[03:03:59] [Async Chat Thread - 18/INFO] []: [] DuvanD: tipo a piedra
+[03:04:20] [Async Chat Thread - 18/INFO] []: [] DuvanD: una mescal de ladrillo piedra normal y sus variantes con musgo
+[03:04:24] [Async Chat Thread - 18/INFO] []: [] DuvanD: mezla*
+[03:04:30] [Async Chat Thread - 18/INFO] []: [] DuvanD: mezcla* xd
+[03:05:12] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
