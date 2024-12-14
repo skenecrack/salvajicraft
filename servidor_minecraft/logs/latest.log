@@ -30527,3 +30527,12 @@
 [18:00:25] [Async Chat Thread - 6/INFO] []: [] DuvanD: pere
 [18:00:26] [Async Chat Thread - 6/INFO] []: [] DuvanD: aunnno
 [18:00:30] [Async Chat Thread - 6/INFO] []: [] DuvanD: ala verga
+[18:03:40] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [299, -970] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2789e5b0
+[18:03:53] [Async Chat Thread - 7/INFO] []: [] lJuqncl: voy a almorzar
+[18:03:56] [Async Chat Thread - 7/INFO] []: [] DuvanD: ok
+[18:03:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lJuqncl lost connection: Disconnected
+[18:03:56] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of lJuqncl
+[18:03:56] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lJuqncl
+[18:03:56] [Server thread/INFO] []: [-] lJuqncl
+[18:04:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:09:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
