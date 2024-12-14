@@ -31019,3 +31019,29 @@ java.util.ConcurrentModificationException: null
 [03:04:24] [Async Chat Thread - 18/INFO] []: [] DuvanD: mezla*
 [03:04:30] [Async Chat Thread - 18/INFO] []: [] DuvanD: mezcla* xd
 [03:05:12] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[03:05:31] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[03:05:49] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[03:06:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:07:50] [Async Chat Thread - 19/INFO] []: [] DuvanD: y ponga decoracion
+[03:07:52] [Async Chat Thread - 19/INFO] []: [] DuvanD: tipo
+[03:08:01] [Async Chat Thread - 19/INFO] []: [] DuvanD: tipo pa que no se vea vacio
+[03:08:05] [Async Chat Thread - 19/INFO] []: [] DuvanD: cosas relacionadas con vampirismo
+[03:08:06] [Async Chat Thread - 19/INFO] []: [] DuvanD: y eso
+[03:09:13] [Async Chat Thread - 20/INFO] []: [] DuvanD: listo
+[03:09:17] [Async Chat Thread - 20/INFO] []: [] DuvanD: ya hice el npc que da el item
+[03:09:20] [Async Chat Thread - 20/INFO] []: [] DuvanD: chaos
+[03:09:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: DuvanD lost connection: Disconnected
+[03:09:24] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of DuvanD
+[03:09:24] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client DuvanD
+[03:09:24] [Server thread/INFO] []: [-] DuvanD
+[03:11:24] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [299, -967] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@17dc0d14
+[03:11:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:13:46] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Squid is 0.001
+[03:13:57] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Squid is 0.001
+[03:14:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pipelon777 issued server command: /tp lJuqncl
+[03:14:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pipelon777: Teleported Pipelon777 to lJuqncl]
+[03:15:02] [Netty Epoll Server IO #0/DEBUG] [voicechat]: [voicechat] Got state of lJuqncl: {disabled=true, disconnected=false, uuid=4d94e397-4f30-3e10-8bfc-a35c7b704ebc, name=lJuqncl, group=43750a50-1d72-4734-a695-b0368e180723}
+[03:15:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: lJuqncl lost connection: Disconnected
+[03:15:04] [Server thread/DEBUG] [voicechat]: [voicechat] Removing state of lJuqncl
+[03:15:04] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client lJuqncl
+[03:15:04] [Server thread/INFO] []: [-] lJuqncl
