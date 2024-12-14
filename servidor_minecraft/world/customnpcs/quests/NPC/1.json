@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Kakamorero",
+    "CompleterNpc": "Drake",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1733860901687L,
+        "TimePast": 1734200551432L,
         "Time": 0L,
         "Subject": ""
     },

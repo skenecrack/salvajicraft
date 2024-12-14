@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:14:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-06 21:18:12 +0000"
@@ -771,6 +777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:14:42 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/food/shroom_powder": {
     "criteria": {
       "has_mushroom": "2024-12-05 23:38:35 +0000"
@@ -1108,6 +1120,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-03 21:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:14:42 +0000"
     },
     "done": true
   },
@@ -2162,6 +2180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:14:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-12 19:57:05 +0000"
@@ -2922,6 +2946,12 @@
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "sword": "2024-12-12 22:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:14:42 +0000"
     },
     "done": true
   },
