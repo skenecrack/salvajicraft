@@ -30701,3 +30701,10 @@
 [18:32:24] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client DuvanD
 [18:32:24] [Server thread/INFO] []: [-] DuvanD
 [18:32:55] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[18:35:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:36:27] [Async Chat Thread - 12/INFO] []: [] lJuqncl: oiga pero pongase full a matar vampiros no?
+[18:38:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] si ya ahorita entro a eso
+[18:40:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:42:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[18:43:13] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[18:43:38] [Server thread/TRACE] [reccomplex]: Structure 'GenericTree1' canceled generation at [239, -1035] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2789e5b0
